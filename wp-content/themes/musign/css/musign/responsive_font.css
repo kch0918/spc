@@ -1,0 +1,176 @@
+
+@media only screen and (max-width: 1744px) {
+/* 폰트사이즈 공통 */
+
+	.ft-19 {font-size:18px;}
+	.ft-20, #top .report-form .chkbox-label label, .board-pagination a{font-size:18px;}
+
+	.ft-21 {font-size:20px;}
+	.ft-22 {font-size:20px;}
+
+	.ft-23 {font-size:22px;}
+	.ft-24 {font-size:22px;}
+
+	.ft-25 {font-size:24px;}
+	.ft-26 {font-size:24px;}
+
+
+	.ft-27 {font-size:26px;}
+	.ft-28 {font-size:26px;}
+
+	.ft-29 {font-size:28px;}
+	.ft-30 {font-size:28px;}
+
+	.ft-31 {font-size:30px;}
+	.ft-32 {font-size:30px;}
+
+	.ft-33 {font-size:32px;}
+	.ft-34 {font-size:32px;}
+
+	.ft-35, #top .report-form legend, #top .report-login legend, .main_color .report-list table caption{font-size:34px;}
+	.ft-36 {font-size:34px;}
+
+	.ft-37 {font-size:36px;}
+	.ft-38 {font-size:36px;}
+
+	.ft-40 {font-size:38px;}
+	.ft-41 {font-size:38px;}
+	.ft-42 {font-size:38px;}
+	.ft-43 {font-size:38px;}
+
+	.ft-44 {font-size:40px;}
+	.ft-45 {font-size:40px;}
+
+	.ft-46 {font-size:42px;}
+	.ft-47 {font-size:42px;}
+
+	.ft-48 {font-size:44px;}
+	.ft-49 {font-size:44px;}
+
+	.ft-50 {font-size:46px;}
+	.ft-51 {font-size:46px;}
+	.ft-52 {font-size:46px;}
+
+}
+@media only screen and (max-width: 1679px) {
+
+
+}
+@media only screen and (max-width: 1440px) {
+
+	.ft-15 {font-size:14px;}
+	.ft-16 {font-size:14px;}
+
+	.ft-17 {font-size:16px;}
+	.ft-18, #top .radio-label label span{font-size:16px;}
+	.ft-19 {font-size:16px;}
+	.ft-20, #top .report-form .chkbox-label label, .board-pagination a{font-size:16px;}
+
+	.ft-21 {font-size:18px;}
+	.ft-22 {font-size:18px;}
+
+	.ft-23 {font-size:18px;}
+	.ft-24 {font-size:18px;}
+
+	.ft-25 {font-size:20px;}
+	.ft-26 {font-size:20px;}
+
+
+	.ft-27 {font-size:22px;}
+	.ft-28 {font-size:22px;}
+	.ft-29 {font-size:22px;}
+	.ft-30 {font-size:22px;}
+
+	.ft-31 {font-size:24px;}
+	.ft-32 {font-size:24px;}
+
+	.ft-33 {font-size:26px;}
+	.ft-34 {font-size:26px;}
+
+
+	.ft-40 {font-size:30px;}
+	.ft-41 {font-size:30px;}
+	.ft-42 {font-size:30px;}
+	.ft-43 {font-size:30px;}
+
+	.ft-44 {font-size:32px;}
+	.ft-45 {font-size:32px;}
+
+	.ft-46 {font-size:34px;}
+	.ft-47 {font-size:34px;}
+
+	.ft-48 {font-size:36px;}
+	.ft-49 {font-size:36px;}
+
+	.ft-50 {font-size:38px;}
+	.ft-51 {font-size:38px;}
+	.ft-52 {font-size:38px;}
+	
+	.ft-65 {font-size:54px;}
+
+}
+
+@media only screen and (max-width: 989px) {
+
+	.ft-17 {font-size:15px;}
+	.ft-18, #top .radio-label label span{font-size:15px;}
+	.ft-19 {font-size:15px;}
+	.ft-20, #top .report-form .chkbox-label label, .board-pagination a{font-size:15px;}
+	
+	.ft-21 {font-size:16px;}
+	.ft-22 {font-size:16px;}
+
+	.ft-23 {font-size:18px;}
+	.ft-24 {font-size:18px;}
+	.ft-25 {font-size:18px;}
+	.ft-26 {font-size:18px;}
+
+	.ft-27 {font-size:20px;}
+	.ft-28 {font-size:20px;}
+	.ft-29 {font-size:20px;}
+	.ft-30 {font-size:20px;}
+
+	.ft-31 {font-size:22px;}
+	.ft-32 {font-size:22px;}
+	.ft-33 {font-size:22px;}
+	.ft-34 {font-size:22px;}
+
+	.ft-35, #top .report-form legend, #top .report-login legend, .main_color .report-list table caption{font-size:24px;}
+	.ft-36 {font-size:24px;}
+	.ft-37 {font-size:24px;}
+	.ft-38 {font-size:24px;}
+
+	.ft-39 {font-size:26px;}
+	.ft-40 {font-size:26px;}
+	.ft-41 {font-size:26px;}
+	.ft-42 {font-size:26px;}
+
+	.ft-43 {font-size:28px;}
+	.ft-44 {font-size:28px;}
+	.ft-45 {font-size:28px;}
+	.ft-46 {font-size:28px;}
+
+	.ft-47 {font-size:28px;}
+	.ft-48 {font-size:28px;}
+	.ft-49 {font-size:28px;}
+	.ft-50 {font-size:28px;}
+	
+	.ft-65 {font-size:40px;}
+}
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+
+
+
+
+}
+@media only screen and (max-width: 700px) {
+}
+@media only screen and (max-width: 499px) {
+  /* Add your Mobile Styles here */
+}

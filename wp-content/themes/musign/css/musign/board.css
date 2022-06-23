@@ -1,0 +1,457 @@
+/* *** 일반형 게시판 *** */
+/* 리스트 */
+.board-default-wrap{
+	text-align:left;
+	padding:50px 0;
+}
+.board-default-wrap .search-input, .notice-sec .search-input{
+	padding:0;
+	max-width:600px;
+	margin:0 auto;
+}
+.board-default-list table{
+	border:0;
+}
+.board-default-list thead th{
+	border:0;
+	border-top:1px solid #000;
+	border-bottom:1px solid #eaeaea;
+	font-size:16px;
+	font-weight:900;
+	text-align:center;
+	padding:23px 10px;
+	letter-spacing:-.08em;
+	background:none;
+}
+.main_color .board-default-list tr:nth-child(odd){
+	background:#fff;
+}
+.board-default-list tbody td{
+	text-align:center;
+	font-size:18px;
+	font-weight:500;
+    padding: 40px 20px;
+	border:0;
+	border-bottom:1px solid #eaeaea;
+}
+.board-default-list tbody td.subject{
+	text-align:left;
+}
+.board-default-list tbody td.subject a{
+	display:block;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	padding:3px 0;
+}
+.board-default-list tbody td.subject a:hover{
+    color: #23afe3;
+}
+
+/* 페이지네이션 */
+.board-pagination{
+    text-align: center;
+    margin: 50px 0;
+}
+.board-pagination a{
+    font-size: 20px;
+    font-weight: 500;
+    color: #afafaf;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0px 5px;
+    margin: 0 10px;
+	cursor:pointer;
+}
+.board-pagination a.current{
+    color: #23afe3;
+}
+.board-pagination a.prev-btn, .board-pagination a.next-btn{
+	overflow:hidden;
+	text-indent:-99999px;
+    min-width: 30px;
+}
+.board-pagination a.prev-btn{
+	background:url(/img/pagination_prev.png) center no-repeat;
+	background-size:9px;
+    margin-right: 25px;
+}
+.board-pagination a.next-btn{
+	background:url(/img/pagination_next.png) center no-repeat;
+	background-size:9px;
+    margin-left: 25px;
+}
+
+
+
+/* 게시판 상세 */
+.board-view{
+	margin:80px auto 180px;
+}
+.board-view .btnwr{
+	text-align:center;
+}
+.bview-top{
+	padding:30px 0;
+	border-bottom:1px solid #000 !important;
+}
+.bview-tit h2{
+	font-size:35px;
+	text-align:left;
+	padding:0 !important;
+	margin:0;
+}
+.bview-tit{
+	width:70%;
+}
+.bview-ul{
+	text-align:right;
+}
+.bview-ul li{
+	display:inline-block;
+}
+.bview-ul .bd-cata{
+	margin-left:30px;
+	margin-bottom:0;
+}
+.bview-cont{
+	padding:50px 0;
+}
+.bview-cont img{
+	max-width:100% !important;
+}
+.bview-list{
+	border-top:1px solid #eaeaea !important;
+	margin-bottom:70px;
+}
+.bview-list > div{
+	padding:30px 0;
+	border-bottom:1px solid #eaeaea !important;
+} 
+.bview-list *, .bview-ul li, .bview-cont *, .channel-tit{
+	font-size:18px;
+}
+.bview-aro{
+	width:15%;
+}
+.bview-ltit{
+	width:70%;
+	text-align:left;
+}
+.bview-ldate{
+	text-align:right;
+}
+.bview-aro img{
+	margin:0 25px;
+	vertical-align:middle;
+}
+.bview-attach{
+	padding:30px 0 10px;
+	text-align:left;
+}
+.bview-attach + .bview-attach{
+	padding-top:0;
+}
+.bview-attach a.attach-btn {
+	letter-spacing:-0.02em;
+	font-size:15px;
+    background: #fff !important;
+    color: #000 !important;
+}
+.bview-attach a.attach-btn:after{
+	display:none;
+}
+.bview-attach a.attach-btn:before{
+	display:none;
+}
+.attach-btn img{
+	vertical-align:middle;
+	margin-left:70px;
+}
+.bview-attach p, .bview-attach a{
+	display:inline-block;
+	vertical-align:middle;
+}
+.bview-attach p{
+	margin-right:55px;
+}
+.contri-sec a.review-btn{
+	font-size:15px;
+	right:0;
+    padding: 0 15px;
+    max-width: 200px;
+}
+.contri-sec a.review-btn img{
+	vertical-align:middle;
+}
+.board-view .btnwr a{
+	min-width:280px;
+}
+
+
+/* notice 2022-03-31 추가*/
+
+#notice_sec.notice-page {
+    padding: 100px 0;
+}
+
+.notice-page #kboard-default-list .kboard-list-header .kboard-total-count,
+.notice-page #kboard-default-list .kboard-list-header .kboard-sort select,
+.notice-page #kboard-default-list .kboard-search select,
+.notice-page .kboard-default-poweredby,
+.notice-page .kboard-list-user,
+.notice-page .kboard-list-vote,
+.notice-page .kboard-list-view,
+.notice-page button.kboard-default-button-small,
+.notice-page .kboard-default-new-notify,
+.notice-page #kboard-default-list .kboard-search input,
+.notice-page #kboard-default-document .kboard-document-action .left,
+.notice-page #kboard-default-document .kboard-detail,
+.notice-page #kboard-default-document .kboard-button-print,
+.notice-page .left a.kboard-default-button-small:nth-of-type(2) {
+    display: none;
+}
+
+
+.notice-page #kboard-default-list .kboard-list table {
+    background: transparent;
+}
+
+.notice-page #kboard-default-list .kboard-search input {
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.notice-page #kboard-default-list .kboard-list tbody tr td {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 40px 20px;
+}
+
+.notice-page #kboard-default-list .kboard-list tbody tr td.kboard-list-title {
+    text-align: left;
+}
+
+.notice-page #kboard-default-list .kboard-pagination .kboard-pagination-pages li a {
+    font-size: 20px;
+    font-weight: 500;
+    color: #afafaf;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0px 5px;
+    margin: 0 10px;
+    cursor: pointer;
+    color: #23afe3 !important;
+    background-color: transparent !important;
+}
+
+
+.notice-page #kboard-default-list .kboard-list thead tr td {
+    border: 0;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #eaeaea;
+    font-size: 16px;
+    font-weight: 900;
+    text-align: center;
+    padding: 23px 10px;
+    letter-spacing: -.08em;
+    background: none;
+}
+
+.notice-page #kboard-default-list .kboard-list table td.kboard-list-title {
+    width: 60%;
+}
+
+.notice-page #kboard-default-list .kboard-list tbody tr:hover {
+    background-color: transparent;
+}
+
+.notice-page .kboard-default-cut-strings {
+    transition: all 0.3s;
+}
+
+.notice-page .kboard-default-cut-strings:hover {
+    color: #23afe3;
+}
+
+.notice-page #kboard-default-document .kboard-title {
+    padding: 30px 0;
+    border-bottom: 1px solid #000 !important;
+}
+
+.notice-page #kboard-default-document .kboard-title h1 {
+    font-weight: 900;
+    margin-bottom: 0.6em;
+    font-size: 35px;
+    text-align: left;
+    padding: 0 !important;
+    margin: 0;
+    color: #000000;
+}
+
+.notice-page #kboard-default-document .kboard-content {
+    padding: 50px 0;
+}
+
+.notice-page #kboard-default-document .kboard-content .content-view {
+    text-align: center;
+}
+
+.notice-page #kboard-default-document .kboard-attach {
+    padding: 30px 0 10px;
+}
+
+
+.notice-page #kboard-default-document .kboard-button-download {
+    color: #000;
+    width: 49%;
+    max-width: 280px;
+    height: 67px;
+    line-height: 65px;
+    border-radius: 30px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0 0 40px 0 rgb(0 0 0 / 5%);
+    background: url(/img/csr/attach-icon.png) no-repeat;
+    background-position: 233px 25px;
+    padding: 0 39px;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: left;
+}
+
+.notice-page #kboard-default-document .kboard-attach {
+    border-top: none;
+}
+
+
+.notice-page #kboard-default-document .kboard-control .left {
+    width: 100%;
+    text-align: center;
+}
+
+.notice-page .left a.kboard-default-button-small:nth-of-type(1) {
+    min-width: 280px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    z-index: 3;
+    text-align: center;
+    border-radius: 50px;
+    font-weight: 700;
+    width: 194px;
+    height: 65px;
+    line-height: 65px;
+    letter-spacing: 0.05em;
+    box-shadow: 0 0 40px 0 rgb(0 0 0 / 5%);
+    font-size: 18px;
+}
+
+.notice-page a.kboard-default-button-small:hover {
+    opacity: 1;
+}
+
+
+.notice-page .left a.kboard-default-button-small:nth-of-type(1):before {
+    content: '';
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.notice-page .left a.kboard-default-button-small:nth-of-type(1):After {
+    content: '';
+    background: #1e2432;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    position: absolute;
+    top: -100px;
+    left: 50%;
+    margin-left: -175px;
+    z-index: -1;
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -moz-transform: scale(0);
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: 0.7s;
+    transition: 0.7s;
+}
+
+.notice-page .left a.kboard-default-button-small:nth-of-type(1):hover:After {
+    transform: scale(1);
+}
+
+.notice-page .left a.kboard-default-button-small:nth-of-type(1):hover {
+    color: #fff !important;
+}
+
+#footer .av_one_fourth:nth-child(2) {
+    width: 37%;
+}
+
+@media only screen and (max-width: 1440px) {
+    .notice-page #kboard-default-document .kboard-title h1 {
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+
+    .notice-page #kboard-default-document .kboard-title h1 {
+        padding: 10px 5px !important;
+        font-size: 18px !important;
+    }
+
+    .notice-page #kboard-default-list .kboard-list .kboard-mobile-contents .kboard-user,
+    .notice-page #kboard-default-list .kboard-list .kboard-mobile-contents .kboard-vote,
+    .notice-page #kboard-default-list .kboard-list .kboard-mobile-contents .kboard-view,
+    .notice-page #kboard-default-list .kboard-list .kboard-mobile-contents .contents-separator {
+
+        display: none;
+    }
+
+    .notice-page .left a.kboard-default-button-small:nth-of-type(1):hover:After {
+        transform: scale(0);
+    }
+
+    .notice-page .left a.kboard-default-button-small:nth-of-type(1):hover {
+        color: #000 !important;
+    }
+
+}
+
+@media only screen and (max-width: 989px) {
+    .notice-page .left a.kboard-default-button-small:nth-of-type(1) {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .notice-page .left a.kboard-default-button-small:nth-of-type(1) {
+        font-size: 13px;
+        width: auto;
+        max-width: 200px;
+        min-width: 140px;
+        height: 48px;
+        line-height: 48px;
+    }
+
+    .notice-page #kboard-default-document .kboard-button-download {
+        text-indent: -999px;
+        overflow: hidden;
+        background: url(/img/csr/attach-icon.png) no-repeat center center !important;
+        width: 48px;
+        height: 48px;
+        min-width: 1px;
+
+    }
+
+}

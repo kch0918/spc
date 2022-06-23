@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /aDmin/*
+Allow: /
+Sitemap:https://www.spc.co.kr/sitemap.xml

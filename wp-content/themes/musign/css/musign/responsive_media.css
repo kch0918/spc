@@ -1,0 +1,492 @@
+@media only screen and (max-width: 1860px) {
+	.channel-iwr{
+/*		width:100px;*/
+	}
+	.chn-img{
+		width:80px;
+	}
+}
+@media only screen and (max-width: 1744px) {
+	.bview-tit h2, .pop-h2 h2{
+		font-size:34px;
+	}
+}
+@media only screen and (max-width: 1679px) {
+	
+}
+@media only screen and (max-width: 1440px) {
+	.pop-cont table th{
+		font-size:18px;
+	}
+	.bview-list *, .bview-ul li, .bview-cont *, .channel-tit, .home-href, .maga-btn, .poprow h4, .pop-cont table td{
+		font-size:16px;
+	}
+	#top .board-search input[type=text], .select p, .select ul li a, .select ul li button, .cardtype-list li .cont .date, .cardtype-list li .cont .writer, .pop-cap li{
+		font-size:14px;
+	}
+	.maga-apply p{
+		word-break:keep-all;
+	}
+	.channel-row .table{
+		min-height:128px;
+	}
+	.contri-sec01 .contri-box{
+		min-height:300px;
+	}
+	.contri-sec .cardtype-list li .cont{
+		padding:20px;
+	}
+	.cardtype-list li .cont .etc{
+		margin:5px 0 0;
+	}
+	.contri-sec .cardtype-list li .cont .writer, .notice-sec .cardtype-list li .cont .writer{
+		padding-right:5px;
+		margin-right:5px;
+	}
+	.bview-tit h2, .pop-h2 h2{
+		font-size:26px;
+	}
+}
+@media only screen and (max-width: 1365px) {
+	.review-slide .slide-wr{
+		padding:0 0 40px;
+	}
+	.magazine-slide .mu-swiper-button-next, .review-slide .mu-swiper-button-next, .slide-type03 .mu-swiper-button-next{
+		right:-35px;
+	}
+	.magazine-slide .mu-swiper-button-prev, .review-slide .mu-swiper-button-prev, .slide-type03 .mu-swiper-button-prev{
+		left: -35px;
+	}
+}
+@media only screen and (max-width: 1279px) {
+	.channel-row{
+		width:48%;
+	}
+	.channel-row, .channel-row:nth-child(3n){
+		margin:1%;
+	}
+	.cardtype-list li .etc a, .view-btn{
+		float:none;
+		display: table;
+		margin: 15px 0 0;
+	}
+	.cardtype-list li .cont .date, .cardtype-list li .cont .writer{
+		margin-top:0;
+	}
+	.maga-apply{
+		width:100%;
+	}
+	.maga-btn{
+		max-width:220px;
+	}
+	.review-slide, .magazine-slide, .slide-type03 {
+		padding:0 25px;
+	}
+	.magazine-slide .mu-swiper-button-next, .review-slide .mu-swiper-button-next, .slide-type03 .mu-swiper-button-next{
+		right:-5px;
+	}
+	.magazine-slide .mu-swiper-button-prev, .review-slide .mu-swiper-button-prev, .slide-type03 .mu-swiper-button-prev{
+		left: -5px;
+	}
+	.global-pop .contri-data .ui-datepicker-trigger{
+		right:30px;
+	}
+	.newslatter-pop{
+		left:5%;
+		width:90%;
+		overflow-y:scroll;
+		transform: translate(0%,-50%);
+		-webkit-transform: translate(0%,-50%);
+	}
+	.global-popwr .pop-cont > .scrollbar-inner {
+		max-height: 305px;
+	}
+}
+@media only screen and (max-width: 989px) {
+	.pop-cont table th{
+		font-size:15px;
+	}
+	.bview-list *, .bview-ul li, .bview-cont *, .channel-tit, .home-href, .maga-btn, .poprow h4, .pop-cont table td{
+		font-size:14px;
+	}
+	.contri-sec{
+		padding:80px 0;
+	}
+	.maga-detail{
+		padding:50px 20px;
+	}
+	.maga-debot{
+		padding:50px 0;
+	}
+	.contri-sec04 .cardtype-list > li{
+		width:48%;
+		
+	}
+	.contri-sec04 .cardtype-list > li, .contri-sec04 .cardtype-list > li:nth-child(3n){
+		margin:4% 4% 0 0;
+	}
+	.contri-sec04 .cardtype-list > li:nth-child(2n){
+		margin-right:0;
+	}
+	.search-input{
+		padding-left:20px;
+	}
+	.bview-tit h2, .pop-h2 h2{
+		font-size:22px;
+	}
+	.bview-top{
+		padding:15px 0;
+	}
+	.bview-cont{
+		padding:25px 0;
+	}
+	.bview-top .table > div{
+		display:block;
+		width:100%;
+	}
+	.bview-top .bview-ul{
+		text-align:left;
+		margin-top:10px;
+	}
+	.bview-ul .bd-cata{
+		margin-lefT:15px;
+	}
+	.board-view{
+		margin:60px 0 120px;
+	}
+	.bview-list{
+		margin-bottom:50px;
+	}
+	.maga-apply{
+		padding:30px;
+	}
+	.cardtype-list li .etc a, .view-btn{
+	    padding: 8px 20px;	
+	}
+	.maga-btn{
+		max-width:180px;
+		margin: 15px 0 0;
+	}
+	.maga-btn:not(.review-btn){
+		position: static !important;	
+	}
+	.newslatter-pop{
+	    padding: 25px 15px;	
+	}
+	.rdo-ul li input + label{
+		background-size:20px auto !important;
+		padding-left:25px;
+	    min-height: 25px;
+
+	}
+	.pop-form .pop-th, .pop-form .pop-td{
+		width:100%;
+		display:block;
+	}
+	.pop-th{
+		padding:5px 0;
+	}
+	.btn-wr{
+		padding:20px 0;
+	}
+	.mega-arr > span{
+		margin:0 15px;
+	}
+	.contri-sec .magazine-latest{
+		margin-top:40px;
+	}
+	.magazine-slide{
+		margin-bottom:50px;
+	}
+	.contri-sec{
+		padding:80px 0;
+	}
+	.md-yourow {
+		margin-bottom: 40px;
+	}
+	.md-logodiv{
+		width:180px;
+		height:180px;
+	}
+	.md-logodiv > div img{
+		max-width:50%;
+	}
+	.cf-slidewr .swiper-slide{
+		padding:0 40px;
+		margin-bottom:25px;
+	}
+	.contri-sec01 .contri-box{
+		min-height:150px;
+	}
+	.pop-td input, .pop-td textarea{
+		padding:0 15px;
+	}
+	.contri-data .ui-datepicker-trigger{
+		width:15px;
+		margin-top: -7px;
+	}
+	.newslatter-pop .global-cls{
+		top:-6px;
+	}
+	.cardtype-list li:hover .thumb:not(.none) img:not(.de-img){
+		transform:translate(-50%,-50%) scale(1);
+		-webkit-transform:translate(-50%,-50%) scale(1);
+	    border-radius: 15px 15px 0 0;
+
+	}
+	.board-search .contri-data{
+		width:50%;
+	}
+	.maga-demid{
+		overflow-x:scroll;
+	}
+}
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+	.contri-sec{
+		padding:45px 0;
+	}
+	.board-view{
+		margin:45px 0 80px;
+	}
+	.contri-box, .channel-list{
+		margin-top:30px;
+	}
+	.channel-row{
+		width:100%;
+	}
+	.channel-row, .channel-row:nth-child(3n){
+		margin:1% 0;
+	}
+	.contri-sec04 .cardtype-list > li{
+		width:100%;
+		
+	}
+	.contri-sec04 .cardtype-list > li, .contri-sec04 .cardtype-list > li:nth-child(3n), .contri-sec04 .cardtype-list > li:nth-child(2n){
+		margin:2% 0;
+	}
+	.search-input{
+		margin-top:10px;
+		padding-left:0;
+	}
+	.board-search > div{
+		display:block;
+		width:100%;
+	}
+	.board-search .contri-data{
+		width:100%;
+	}
+	.bview-list{
+		margin-bottom:25px;
+	}
+	.bview-list > div{
+		padding:15px 0;
+	}
+	.bview-list .table > div.bview-ldate{
+		display:none;
+	}
+	.bview-aro img {
+	    margin: 0 5px 0 0;
+	}
+	.bview-ltit{
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	
+	}
+	.maga-apply{
+		padding:20px;
+	}
+	.maga-detail{
+		padding:25px 20px;
+	}
+	.maga-debot{
+		padding:0;
+		margin-bottom:25px;
+	}
+	.contri-sec .magazine-latest{
+		margin-top:20px;
+	}
+	.magazine-slide{
+		margin-bottom:0;
+	}
+	.contri-sec{
+		padding:50px 0;
+	}
+	.md-yourow {
+		margin-bottom: 20px;
+	}
+	.md-logodiv{
+		width:120px;
+		height:120px;
+		font-size:11px;
+	}
+	.md-logodiv > div{
+		font-size:11px;	
+	}
+	.md-logo{
+		width:150px;
+	}	
+	.md-slide{
+		transform: translateX(0);
+		-webkit-transform: translateX(0);
+	}
+	.md-logo .swiper-button-next.circle-arrow, .md-logo .swiper-button-prev.circle-arrow{
+		top:0;
+	}
+	.epyt-gallery .epyt-gallery-thumb, .vdo-list{
+	    box-shadow: 0 0 20px 0 rgb(0 0 0 / 5%);
+	}
+	.cf-slidewr .swiper-slide{
+		padding:0 25px;
+	}
+	.swiper-pagination-bullet{
+		margin:0 10px;
+	}
+	.vdo-btn{
+	}
+	.contri-sec .btnwr{
+		margin-top:25px;
+	}
+	.society-sec01 .review-slide .slide-wr{
+		padding:0;
+	}
+	.society-sec01 .contri-box{
+		margin-top:15px;
+	}
+	.mega-arr > span img{
+		max-width:70%;
+	}
+	.maga-debot a.home-href{
+/*		transform: translate(0,0);*/
+/*		-webkit-transform: translate(0,0);*/
+/*		position:static;	*/
+/*		margin-top:10px;*/
+	}
+	.mega-arr{
+		opacity:1;
+	}
+	.mega-arr b{
+		display:none;
+	}
+	.mega-arr > span{
+		marign:0;
+	}
+	.newslatter-pop{
+		padding:0;
+	}
+	.newslatter-pop .scrollbar-inner{
+		padding-right:10px;
+	}
+	.hub-top .tbox:before {
+		left: auto;
+		right: 0;
+		transform: scale(0.5);
+		transform-origin: bottom;
+	}
+	.hub-top h1:after{
+		transform: scale(0.3);
+		transform-origin: center bottom;
+		right: -123px;
+		bottom: 4px;
+	}
+	#sub-top.hub-top .tbox > div.left .desc{
+		padding-right:60px;
+	}
+	.bview-attach a.attach-btn{
+		text-indent: -999px;
+		overflow: hidden;
+		background: url(/img/csr/attach-icon.png) no-repeat center center !important;
+		width: 48px;
+		min-width: 1px;
+	}
+	.bview-attach p{
+		margin-right: 15px;
+		margin: 0 15px 0 0;
+		width: 70%;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+	.bview-attach{
+		padding:15px 0 5px;
+	}
+	.review-btnwr{
+		text-align:right;
+		margin:15px 0 0;
+	}
+	.contri-sec a.review-btn{
+		position:static;
+	}
+	.pop-cont h4, .pop-cont table{
+		margin:0 0 10px;
+	}
+	.pop-cont table th{
+		font-size:14px;
+		padding:5px;
+	}
+	.pop-cont table td{
+		font-size:13px;
+		padding:5px;
+	}
+	.global-popwr .pop-cont > .scrollbar-inner{
+		max-height:400px;
+	}
+	.magazine-slide .swiper-container{
+		width:100%;
+		margin:0 auto;
+	}
+	.review-slide, .magazine-slide, .slide-type03{
+		padding:0 15px;
+	}
+	.newslatter-pop{
+		height:auto;
+		transform:translateY(-50%);
+		-webkit-transform:translateY(-50%);
+		top:50%;
+	}
+	.md-logodiv a{
+		font-size:10px;
+	}
+	.md-btnwr .circle-arrow{
+	    width: 45px;
+		height: 45px;
+	}
+}
+@media only screen and (max-width: 800px) {
+	.pop-td .select{
+		width:100%;
+		margin-top:5px;
+	}
+	.pop-td .contri-data, .email-row .table, .review-pop input{
+		max-width:100%;
+	}
+}
+@media only screen and (max-width: 499px) {
+  /* Add your Mobile Styles here */
+	.channel-row .table {
+		text-align:left;
+		position:relative;
+		padding:15px 15px 15px 90px;
+		min-height:1px;
+	}
+	.channel-row .table > div{
+		display:inline-block;
+	}
+	.channel-tit{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.chn-img{
+		position:absolute;
+		left:0;
+		top:50%;
+		transform:translateY(-50%);
+		-webkit-transform:translateY(-50%);
+	}
+}

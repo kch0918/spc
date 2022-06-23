@@ -1,0 +1,17 @@
+@media print { 
+	@page { 
+		margin: 0.5em 0; 
+		size: A4;
+	}
+	body{
+		zoom:0.6;
+	}
+	#container{
+		padding: 0 !important;
+		margin: 0 !important;
+		width: 100% !important;
+	}
+	#header, #footer, .write_bt{
+		display:none !important;
+	}
+}

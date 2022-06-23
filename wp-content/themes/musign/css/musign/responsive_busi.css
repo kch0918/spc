@@ -1,0 +1,768 @@
+@media only screen and (min-width: 990px) {
+	.pc-no{
+		display:none !important;
+	}
+	.main-btn:hover .de-img{
+		opacity:0;
+	}
+	.main-btn:hover .ho-img{
+		opacity:1;
+	}
+}
+@media only screen and (max-width: 1850px) {
+	/* R&D 시작 */
+	#rnd-sec-line-arrow {
+		width:67%;
+		margin:0 auto !important;
+		border-radius:0 !important;
+	}
+	#rnd-sec-line-arrow img {
+		width:100%;
+	}
+	/* R&D 끝 */
+
+	/* 글로벌 */
+	.global-tit{
+		padding-right:20px;
+		word-break:keep-all;
+	}
+	.global-sec01 .av_one_half{
+		width:35%;
+	}
+	.global-sec01 .avia-builder-el-last{
+		width:65%;
+	}
+	/* 글로벌 끝! */
+
+	/* 계열사 */
+	.sdetail-left{
+		padding-left:100px;
+	}
+	.sdetail-left p:after{
+		margin-left:50px;
+	}
+}
+@media only screen and (max-width: 1744px) {
+	.sde-infotxt *{
+		font-size:18px;
+	}
+}
+@media only screen and (max-width: 1679px) {
+	/* 글로벌 */
+	.map-acabox h2{
+		font-size:28px;
+	}
+	.map-acabox.on h2 {
+		font-size: 42px;
+	}
+	.map-acabox.on .map-txt{
+		padding:42px;
+	}
+	.lnb{
+		left: 9%;
+		margin-left: 0;
+	}
+	/* 글로벌 끝! */
+
+	/* R&D 시작*/
+	#rnd-sec.rnd-sec1-1 .txt + .txt br {
+		display:none;
+	}
+	#rnd-sec.rnd-sec1-1 .txt:last-child {
+		margin-bottom:40px;
+	}
+	#rnd-sec p.txt br {
+		display:none;
+	}
+	#rnd-sec.rnd-sec2-1 .big_tbox .big_text {
+		font-size:70px;
+	}
+	#rnd-sec.rnd-sec2-1 .big_tbox .abs_img {
+		width:550px;
+	}
+	#rnd-sec.rnd-sec2-2 .tbox strong {
+		font-size:80px;
+	}
+	#rnd-sec.rnd-sec2-2 .tbox .txt {
+		font-size:30px;
+	}
+	#rnd-sec.rnd-sec2-2 .circle_box .circle {
+		width:400px;
+		height:400px;
+	}
+	/* R&D 끝 */
+
+	/*
+		계열사
+	*/
+	.bdtop-txt h2, .sdetail-txt h2{
+		font-size:55px;
+	}
+	.bdtop-slide .slick-dots{
+		bottom:80px;
+	}
+	.bdetail-top:before{
+		height:88px;
+		bottom:-40px;
+	}
+	/*	계열사 끝 */
+}
+@media only screen and (max-width: 1440px) {
+	/* 글로벌 */
+	.map-acabox.on .map-txt{
+		padding:32px;
+	}
+	.gpop-wr h2 {
+		margin-bottom: 20px;
+	}
+	.gpop-txt{
+		width:35%;
+	}
+	.gpop-txt p br, .map-acabox p br{
+		display:none;
+	}
+	.gpop-txt p, .map-acabox p {
+		word-break:keep-all;
+	}
+	.map-acabox{
+		width:20%;
+	}
+	.map-acabox h2{
+		font-size:25px;
+	}
+	.map-acabox.on h2 {
+		font-size: 38px;
+	}
+	.map-bot{
+		padding:100px 0;
+	}
+	.blist-box > p, .bd-cata, .lnb-ul > li > a{
+		font-size:16px;
+	}
+	.lnb-dep a, .sde-ul li{
+		font-size:14px;
+	}
+	.blist-box{
+		margin-bottom:60px;
+	}
+	/* 글로벌 끝! */
+
+	/*	계열사 */
+	.bdtop-txt h2, .sdetail-txt h2 {
+		font-size: 50px;
+	}
+	.sdeli-tit{
+		margin:0;
+	}
+	.sde-infotxt *{
+		font-size:16px;
+	}
+	.home-iwr, .bdetail-sns li a{
+		width:69px;
+		height:69px;
+		line-height:65px;
+	}
+
+	/*	계열사 끝 */
+}
+@media only screen and (max-width: 1365px) {
+	.brand-list{
+		padding-left:35%;
+	}
+	.lnb{
+		left:50px;
+		width:30%;
+	}
+}
+@media only screen and (max-width: 1279px) {
+	.global-sec01 .ft-22 br, .sde-infotxt p br{
+		display:none;
+	}
+	.global-sec01 .ft-22, .sde-infotxt p{
+		word-break:keep-all;
+	}
+	.blist{
+		width:49%;
+	}
+	.blist:nth-child(2n){
+		margin-right:0;
+	}
+	.blist-row > div{
+		text-align:center;
+	}
+	/*
+		계열사
+
+	*/
+	.sdetail-top{
+		padding-right:200px;
+	}
+	.sdetop-logo{
+		right:30px;
+		width:130px;
+		height:130px;
+		line-height:130px;
+	}
+	.sdetail-left{
+		padding-left:0;
+		left:30px;
+	}
+	.back-btn, .cls-btn{
+		top:-150%;
+	}
+	.bdet-slide{
+		margin:80px 0 45px;
+	}
+	.bdtop-slide .slick-dots{
+		bottom:40px;
+	}
+	.bdetail-top:before{
+		height:50px;
+		bottom:-25px;
+	}
+	/*	계열사 끝 */
+}
+@media only screen and (max-width: 989px) {
+	#rnd-sec.rnd-sec1-1 .flex_cell_inner,
+	#rnd-sec.rnd-sec2-1 .flex_cell_inner {
+		padding-top:40px;
+	}
+	.mo-no{
+		display:none !important;
+	}
+	.brand-page .flex_cell_inner{
+		padding:150px 0 100px;
+	}
+	/* 글로벌 */
+	.global-pop{
+		left:5%;
+	    max-height: 90%;
+		width:90%;
+		overflow-y:scroll;
+		height: auto;
+		transform: translateY(-50%);
+		-webkit-transform: translateY(-50%);
+		top: 50%;
+	}
+	.gpop-wr > div{
+		padding:0;	
+	}
+	.gpop-wr > div{
+		padding:30px 20px;
+	}
+	.global-pop .table{
+	  padding: 0;
+	}
+	.global-pop .gpop-img, .global-pop .gpop-txt{
+		display:block;
+	}
+	.gpop-txt{
+		padding:0;
+		width:100%;
+	}
+	.map-cap{
+		margin-top:10px;
+	}
+	.gpop-img{
+		padding-bottom:50px;
+	}
+	.map-acawr > div, .map-acabox.on{
+		height:250px;
+	}
+	.map-acawr > div, .map-acabox.on{
+		display:block;
+		width:100%;
+		transform: translateY(0);
+		-webkit-transform: translateY(0);
+	}
+	.map-acabox > div{
+		height:100%;
+		text-align:left;
+	}
+	.map-acabox + .map-acabox > div{
+		margin:10px 0 0;
+	}
+	.map-txt{
+		padding:30px;
+	}
+	.map-acabox > div{
+		background-size:100% auto !important;
+		height: 250px;
+	}
+	.map-acabox h2, .map-acabox.on h2{
+		font-size: 25px;
+		margin-bottom: 160px;
+	}
+	.map-acabox .map-over {
+		opacity: 1;
+		transform: translateY(0);
+		-webkit-transform: translateY(0);
+	}
+	.map-acabox .map-txt > div {
+		overflow: visible;
+	}
+	.map-dot{
+		width:18px;
+		height:18px;
+	}
+	.map-dot:before {
+		width: 24px;
+		height: 24px;
+	}
+	.map-cap{
+		font-size:8px;
+		padding:0 5px;
+	}
+	.global-sec01 .av_one_half, .global-sec01 .avia-builder-el-last{
+		width:100%;
+	}
+	.global-tit{
+		padding-right:0;
+	}
+	.global-sec01 {
+		padding: 0 0 60px;
+	}
+	.global-sec01 .ft-22{
+		margin:0;
+	}
+	.map-logo{
+		width:67px;
+	}
+	.map-effwr svg {
+		width: 149%;
+		height: 145%;
+	}
+	.gpop-img .slick-dots{
+		bottom:-35px;
+	}
+	.gpop-wr h2 .color-s{
+		font-size:14px;
+	}
+	.blist-box > p, .bd-cata{
+		font-size:14px;
+		line-height:35px;
+		height:35px;
+		margin-bottom:15px;
+	}
+	.blist-box p.blist-t{
+		margin-right:10px;
+	}
+	.cardtype-list li.slist .cont .etc{
+		margin-top:20px;
+	}
+	.blist-wr{
+		padding:0;
+		width:100%;
+	}
+	.brand-list{
+		padding:0 20px;
+	}
+	.lnb{
+		width:100%;
+		position:Static;
+		margin-bottom:45px;
+	}
+	.lnb h2{
+		margin-bottom:15px;
+	}
+	.lnb-ul > li > a{
+		font-size:14px;
+		padding:10px 0;
+	}
+	.lnb-ul{
+		padding:20px 30px;
+	}
+	.lnb-dep a{
+		font-size:13px;
+	}
+	.blist-box{
+		margin-bottom:30px;
+	}
+	.blist{
+		width:32%;
+		margin-top:0;
+		margin-bottom:20px;
+	}
+	.blist:nth-child(2n){
+		margin-right:2%;
+	}
+	.blist:nth-child(3n){
+		margin-right:0;
+	}
+	/* 글로벌 끝! */
+
+	/* R&D 시작 */
+	#rnd-sec.rnd-sec2-1 .cbox .txt-2  {
+		display:block;
+	}
+	#rnd-sec .avia-image-container.avia-align-center, .car-sec12 .avia-image-overlay-wrap{
+		border-radius:15px;
+	}
+	/* R&D 끝*/
+
+	/*
+		계열사
+	*/
+	.bdtop-txt h2, .sdetail-txt h2 {
+		font-size: 45px;
+	}
+	.sde-ul li{
+		width:32%;
+		margin: 0.5%;
+		min-height: 230px;
+	}
+	.sde-img{
+		margin:40px 0;
+	}
+	.bd-catawr{
+		margin-top:80px;
+	}
+	.sde-ul{
+		margin:50px auto;
+	}
+	.sdetail-bot{
+		padding:100px 0;
+	}
+	.sde-slide .slick-slide img{
+		width:175px;
+	}
+	.sde-slide .slick-slide{
+		padding:0 30px;
+	}
+	.scroll-i{
+		margin-top:80px;
+	}
+	.sdetail-left{
+		left:20px;
+	}
+	.sdetop-logo{
+		right:20px;
+	}
+	.home-iwr, .bdetail-sns li a{
+		width:49px;
+		height:49px;
+		line-height:45px;
+	}
+	.home-iwr{
+		margin-right:10px;	
+	}
+	.home-iwr img, .bdetail-sns li a img{
+		max-width:20px;
+		max-height:20px;
+	}
+	.slist-logo{
+		display:none;
+	}
+	html.subsidiary-html:not(.black-html){
+		overflow-y: scroll;
+	}
+	.brand-page .flex_cell_inner:before{
+		display:none;
+	}
+	.blist-box p.blist-t, .subs-detail > .sdetail-left.on, .sdetail-dot{
+		display:none;
+	}
+	/*	계열사 끝 */
+	/*	브랜드 */
+	.bdetail-sns{
+		top:45px;
+	}
+	.bdetail-sns li{
+		display:block;
+		margin:0 0 10px;
+	}
+	.bdetail-sns li + li{
+		margin-left:0;
+	}
+	.blist-img{
+		max-width:70%;
+	}
+	/*	브랜드 끝 */
+	
+}
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+	.map-bot {
+		padding: 45px 0;
+	}
+	.global-sec01 {
+		padding: 0 0 20px;
+	}
+	.brand-page .flex_cell_inner{
+		padding:100px 0 60px;
+	}
+	.bd-stit{
+		word-break:keep-all;
+	}
+	/* 글로벌 */
+	.map-cap{
+		display:none;
+	}
+	.gpop-wr h2 .color-s{
+		font-size:13px;
+	}
+	.lnb, .slist{
+		margin-bottom:25px;
+	}
+	.blist{
+		width:48%;
+		margin-right:2%;
+	}
+	.blist-row > div:nth-child(3n){
+		margin-right:2%;
+	}
+	.blist .back{
+		display:none;
+	}
+	.blist > a{
+		margin:0 auto;
+	}
+	.blist:hover > a:before{
+		display:none;
+	}
+	.blist:hover > a img{
+		opacity:1;
+	}
+	.blist:hover > a{
+		background:#fff;
+	}
+	/* 글로벌 끝! */
+
+	/* R&D 시작 */
+	#rnd-sec.rnd-sec1-1 .av_two_third {
+		padding-left:0;
+		margin:20px 0 0 0 !important;
+	}
+	#rnd-sec.rnd-sec1-2 {
+		height:auto;
+		margin:0;
+		padding:0;
+	}
+	#rnd-sec.rnd-sec1-2 .flex_cell {
+		padding: 60px 0 !important;
+		background-size: cover !important;
+		background-position: right !important;
+	}
+	#rnd-sec.rnd-sec1-2 p {
+		padding:0;
+	}
+	#rnd-sec.rnd-sec1-2 p br {
+		display:none;
+	}
+	#rnd-sec.rnd-sec2-1 .tbox {
+		padding:30px 15px;
+	}
+	#rnd-sec.rnd-sec2-1 .tbox > div {
+		width:100%;
+	}
+	#rnd-sec.rnd-sec2-1 .tbox > div:first-child {
+		padding-bottom:30px;
+		margin-bottom:30px;
+		border-bottom:1px solid #e1e1e1;
+	}
+	#rnd-sec.rnd-sec2-1 .tbox > div:not(:last-child):before {
+		display:none;
+	}
+	#rnd-sec.rnd-sec2-1 .big_tbox .abs_img {
+		width:150%;
+	}
+	#rnd-sec-line-arrow {
+		display:none;
+	}
+	#rnd-sec.rnd-sec2-1 .av_one_full_box {
+		max-width:100%;
+	}
+	#rnd-sec.rnd-sec2-2 .tbox strong {
+		font-size:65px;
+	}
+	#rnd-sec.rnd-sec2-2 .tbox .txt {
+		font-size: 26px;
+	}
+	#rnd-sec.rnd-sec2-2 .circle_box .circle {
+		width: 300px;
+		height: 300px;
+	}
+	#rnd-sec.rnd-sec2-2 .circle_box .circle:before {
+		width:330px;
+		height:330px;
+	}
+	#rnd-sec.rnd-sec2-2 .circle_box .circle:after {
+		width:360px;
+		height:360px;
+	}
+	#rnd-sec.rnd-sec2-2 .flex_cell {
+		padding:160px 0 !important;
+	}
+	#rnd-sec.rnd-sec2-1 {
+		padding: 0 0 45px;
+	}
+	/* R&D 끝 */
+
+	/*
+		계열사
+	*/
+	.bdtop-txt h2, .sdetail-txt h2 {
+		font-size: 40px;
+	}
+	.sdetail-txt h2 {
+		margin-top:0;
+	}
+	.sde-slide .slick-slide img{
+		width:115px;
+	}
+	.sde-slide .slick-slide{
+		padding:0 15px;
+	}
+	.sdetail-top{
+		padding-right:0;
+	}
+	.back-btn, .cls-btn{
+		width:50px;
+		height:50px;
+		top:0;
+	}
+	.scroll-i{
+		margin-top:60px;
+		display:inline-block;
+	}
+	.scroll-i img{
+		width:18px;
+	}
+	.sdetail-left p:after{
+		margin-left:25px;
+	}
+	.sdetop-logo {
+		width: 100px;
+		height: 100px;
+		line-height: 100px;
+		top: 180px;
+		right: 50%;
+		margin-right:-50px;
+	}
+	.sdetail-left {
+		top: 100px;
+		margin: 0;
+		width:50px;
+		height:50px;
+	}
+	.sdetail-top{
+		width:100%;
+		padding: 0 20px;
+	}
+	.sdetail-top > div{
+		vertical-align:top;
+		padding-top:300px;
+	}
+	.sdetail-bot{
+		width:100%;
+		padding:180px 0 45px;
+	}
+	.subs-detail{
+		padding-left:0;
+	}
+	.sdetail-left p{
+		display:none;
+	}
+	.home-go{
+		
+	}
+	.sde-ul ul{
+		display: table;
+		border-spacing: 10px;	
+	}
+	.sde-ul li{
+		width: 100%;
+		margin: 0.5%;
+		min-height: 230px;
+		display: table-cell;
+		min-width: 150px;	
+	}
+	.sde-ul{
+		overflow-x: scroll;
+		padding: 20px;	
+	}
+	.sdetail-top{
+		text-align:center;
+	}
+	.cls-btn{
+		border:1px solid #000 !important;
+		background: url(/img/close-b.png) no-repeat center center;
+	}
+	.bdet-tit{
+		margin:15px auto;
+	}
+	/*	계열사 끝 */
+	/*	브랜드 */
+	.bdet-slide{
+		margin:40px 0 45px;
+	}
+	.home-href{
+		padding:0 15px;
+	}
+	.home-href img{
+		width:20px;
+	}
+	.bdet-btnwr .home-href{
+		width:100%;
+
+	}
+	.bdetail-logo{
+		max-width:50%;
+	}
+	.bdet-btnwr{
+		padding:45px 0 0;
+	}
+	.bdetail-sns{
+		top:20px;
+	}
+	.bdtop-slide .slick-slide img{
+		max-width:300%;
+	    position: relative;
+	    left: 50%;
+	    -o-transform: translateX(-50%);
+	    -ms-transform: translateX(-50%);
+	    -moz-transform: translateX(-50%);
+	    -webkit-transform: translateX(-50%);
+	    transform: translateX(-50%);
+	}
+	.bdtop-slide .slick-arrow, .gpop-slide .slick-arrow{
+		
+		width: 45px;
+		height: 45px;
+	}
+	.bdtop-slide .slick-next, .gpop-slide .slick-next{
+		right:15px;
+	}
+	.bdtop-slide .slick-prev, .gpop-slide .slick-prev{
+		left:15px;
+	}
+	
+	/*	브랜드 끝 */
+}
+@media only screen and (max-width: 700px) {
+}
+@media only screen and (max-width: 499px) {
+	/* 글로벌 */
+	.map-logo {
+		width: 55px;
+		top: 27%;
+		left: 78%;
+	}
+	.slist{
+		width:100%;
+	}
+
+	/* 글로벌 끝! */
+
+	/*	브랜드 */
+	.slist:nth-child(2n){
+		margin-left:0;
+	}
+
+	/*	브랜드 끝 */
+}

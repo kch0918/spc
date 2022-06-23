@@ -1,0 +1,30 @@
+ /* 본페이지 report.css 수정*/
+
+.news_search {
+	margin-right: 34px;
+}
+
+.news_check_tit {
+	font-weight: 600;
+}
+
+.table_tit.news_tb th:nth-child(1),
+.tablecont.news_tb td:nth-child(1) {
+    width: 10%;
+    color: #8d8d8d;
+}
+
+.table_tit.news_tb th:nth-child(2),
+.tablecont.news_tb td:nth-child(2) {
+    width: 67%;
+}
+
+.table_tit.news_tb th:nth-child(3),
+.tablecont.news_tb td:nth-child(3) {
+    width: 12%;
+}
+
+.table_tit.news_tb th:nth-child(4),
+.tablecont.news_tb td:nth-child(4) {
+    width: 8%;
+}

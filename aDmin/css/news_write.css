@@ -1,0 +1,27 @@
+.news .search {
+	position: relative;
+    margin-bottom: 40px;
+}
+
+.write_li_add {
+    padding-bottom: 13px;
+    border-bottom: solid 1px #efefef;
+    font-size: 0;
+}
+
+.news .write_li_tit {
+    padding-top: 18px;
+}
+
+.news .date_box {
+    margin-left: 0;
+}
+
+.news_search {
+	position: relative;
+}
+
+.review_search:before {
+	display: none;
+}
+

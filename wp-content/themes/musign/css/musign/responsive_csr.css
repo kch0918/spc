@@ -1,0 +1,1548 @@
+@media only screen and (max-width:1919px) {
+	/* 사회공헌 소개 */
+	#social-contribution-sec .av_one_fourth {
+		margin-right:1.8%;
+	}
+	/* 사회공헌 소개 끝*/
+}
+@media only screen and (max-width: 1890px) {
+	/* 사회공헌 소개 */
+	#shar-sec03 .cellbox .cell .tbox p br,
+	#shar-sec04 .box .right .t3 br,
+	#shar-sec02 .tbox .t2 br,
+	#shar-sec01 .tbox .t2 br{
+		display:none;
+	}
+	#operation-sec01 .tbox .t1 {
+		word-break:keep-all;
+	}
+	#operation-sec01 .tbox .t1 br ,
+	#operation-sec01 .tbox .t2 br{
+		display:none;
+	}
+	/* 사회공헌 소개 끝*/
+}
+@media only screen and (max-width: 1744px) {
+	/* SPC 행복한 재단 */
+	.foundation-info-sec01 p br{
+		display:none;
+	}
+	.found-busi-list dt{
+		width:47%;
+	}
+	.found-busi-list{
+		padding:25px 20px;
+	}
+	/* 사회공헌 소개 */
+	#social-contribution-sec .av_one_fourth {
+		width:280px;
+		height:280px;
+		padding:50px 0 0 0;
+	}
+	#shar-sec04 .box .right .t2 {
+		font-size:32px;
+	}
+	/* 사회공헌 소개 끝 */
+}
+
+@media only screen and (max-width: 1679px) {
+	/* SPC 행복한재단 소개 */
+	.av-flex-cells .found-info-box{
+		max-width:72%;
+	}
+	.foundation-info-sec03 .av_one_fifth{
+		width:36%;
+		margin-left:2%;
+	}
+	.foundation-info-sec03 .av_one_fifth.first + .av_one_fifth + .av_one_fifth + .av_one_fifth {
+		margin-left:26%;
+	}
+	.av_one_fifth.found-busi-list{
+		min-height:400px;
+	}
+	/* 사회공헌 소개 */
+	#social-contribution-sec .flex_cell_inner {
+		width:100%;
+	}
+	#social-contribution-sec .flex_cell_inner {
+		text-align:center;
+	}
+	#social-contribution-sec .flex_cell_inner > .av_textblock_section   {
+		text-align:left;
+	}
+	#independence-support01 .av_one_half .tbox .txt br {
+		display:none;
+	}
+	#independence-support02 .slide_btn_wrap ul li {
+		padding:10px 35px;
+	}
+	.independence-support-item .av_one_half {
+		vertical-align:top;
+	}
+	.independence-support-item .loc-box {
+		padding:20px 30px;
+		margin:25px 0 0 0;
+	}
+	.independence-support-item .loc-box > div {
+		width:100%;
+		padding:15px 0;
+	}
+	.independence-support-item .txt br {
+		display:none;
+	}
+	#human-resource-development01 .av_one_half .tbox br {
+		display:none;
+	}
+	#human-resource-development02 .link_wrap li {
+		margin-bottom:10px;
+	}
+	#human-resource-development02 .link_wrap li:not(:last-child) {
+		margin-right:10px;
+	}
+	#shar-sec03 .av_one_third:nth-of-type(2) {
+		margin:0 60px;
+	}
+	#operation-sec02 ul li {
+		font-size:16px;
+	}
+	#operation-sec02 .t1 {
+		margin:35px 0 10px;
+	}
+	#operation-sec02 .cbox {
+		padding: 60px 30px;
+	}
+	#operation-sec02 .av_one_third {
+		height:550px;
+	}
+	/* 사회공헌 소개 끝 */
+}
+
+@media only screen and (max-width: 1440px) {
+	/* SPC 행복한재단 소개 */
+	.foundation-info-sec03 {
+	    padding: 115px 0 130px;
+	}
+	/* 사회공헌 소개 */
+
+	#social-contribution-sec .av_one_fourth {
+		width: 250px;
+		height: 250px;
+		padding: 50px 0 0 0;
+		margin: 62px 20px 0 0;
+	}
+	.avia-animated-number-title{
+	    font-size: 30px;
+	}
+	#social-contribution-sec .av_one_fourth .tbox {
+	    padding: 0 10PX;
+	}
+	#independence-support01 .av_one_half .tbox a {
+		height:55px;
+		line-height:55px;
+		margin:30px 0 0 0;
+	}
+	#human-resource-development02 .link_wrap li a {
+		padding:13px 35px;
+	}
+	#human-resource-development02 .tbox br {
+		display:none;
+	}
+	#human-resource-development02 table tr th {
+		font-size:18px;
+	}
+	#human-resource-development02 table tr td .txt {
+		font-size:16px;
+	}
+	#human-resource-development02 table tr td {
+		padding:30px;
+	}
+	#human-resource-development02 .table_wrap .cellbox .cell {
+		padding:15px 0;
+	}
+	#human-resource-development02 .table_wrap .cellbox:first-child .cell {
+		font-size:16px;
+	}
+	#human-resource-development02 .table_wrap .cellbox .cell {
+		font-size:14px;
+	}
+	#human-resource-development02 table tr td .txt .btn_type1 img {
+		width:18px;
+	}
+	.btn_type1 {
+		height:50px;
+		line-height:50px;
+		font-size:14px;
+	}
+	#human-resource-development01 .flex_cell:first-child {
+		padding-right:20px !important;
+	}
+	#shar-sec03 .av_one_third {
+		width:250px;
+		height:250px;
+	}
+	#shar-sec03 .av_one_third:before{
+		width:290px;
+		height:290px;
+	}
+	#shar-sec03 .ct1 {
+		font-size:50px;
+	}
+	#shar-sec04 .box .left {
+		width:55%;
+		vertical-align:top;
+		padding:0 0 0 30px;
+	}
+	#shar-sec04 .box .right {
+		width:45%;
+		vertical-align:top;
+		padding:0 30px 20px;
+	}
+	html body #wrap_all #shar-sec04 .slide_wrap .prev-slide {
+		top:40%;
+		left:-25px;
+	}
+	html body #wrap_all #shar-sec04 .slide_wrap .next-slide{
+		top:40%;
+		right:-25px;
+	}
+	#shar-sec04 .box .right .t2 {
+		font-size:26px;
+	}
+	#shar-sec04 .box .right .t3 {
+		font-size:16px;
+		margin:20px 0 40px;
+	}
+	#shar-sec04 .box .right a {
+		height:45px;
+		line-height:45px;
+	}
+	#shar-sec04 .shar-tab-wrap > .shar-tab {
+		font-size:18px;
+		height:55px;
+		line-height:55px;
+	}
+	#awards-sec01 .swiper-button-prev {
+		left:-10px;
+	}
+	#awards-sec01 .swiper-button-next {
+		right:-10px;
+	}
+	.board-default-list tbody td {
+		font-size:16px;
+		padding:25px 20px;
+	}
+	/* 사회공헌 소개 끝 */
+}
+@media only screen and (max-width: 1365px) {
+	/* 사회공헌 소개 */
+	#shar-sec02 .tbox .t2 br {
+		display:none;
+	}
+	#operation-sec02 ul {
+		margin:20px 0 0 0;
+	}
+	#operation-sec02 .cbox .iwra {
+		height:61px;
+	}
+	#operation-sec02 .cbox img{
+		width:60px;
+		height:60px;
+	}
+	#operation-sec02 ul li br {
+		display:none;
+	}
+	/* 사회공헌 소개 끝 */
+	/* csr */
+	.date + .report-status {
+		margin-left: 45px;
+	}
+}
+@media only screen and (max-width: 1279px) {
+	/* SPC 행복한재단 소개 */
+	.found-info-box02 ul li{
+		width:250px;
+	}
+	.found-info-box02 ul:after{
+		left:131px; right:130px;
+	}
+	/* SPC 행복한재단 연혁 */
+	.found-history-list li{
+		padding-left:100px;
+	}
+	.found-history-list li .img{
+		margin-left:-100px;
+	}
+	/* 사회공헌 소개 */
+	#human-resource-development01 .stit br {
+		display:none;
+	}
+	#shar-sec01 .tbox .t2 br {
+		display:none;
+	}
+	/* 사회공헌 소개 끝 */
+	/* 부정 제보 인트로 */
+	.tip-off-intro02{
+		padding:70px 0 125px;
+	}
+	/* csr */
+	.tip-off-answer {
+		padding: 50px 45px;
+	}
+	.tip-off-reply .reply_info {
+		width: 160px;
+	}
+
+	.ethics_box .link_box a {
+		display:block;
+		margin:0 0 15px;
+	}
+	#social-contribution-sec .av_one_fourth {
+	    width: 235px;
+	    height: 235px;
+	}
+	#social-contribution-sec .av_one_fourth .tbox .txt {
+	    font-size: 14px;
+	    height: 40px;
+	}
+	#social-contribution-sec .av_one_fourth .tbox {
+	    margin: 0; 
+	}
+}
+@media only screen and (max-width: 1146px) {
+	#social-contribution-sec .av_one_fourth {
+	    margin: 62px 20px 0 0;
+	}
+}
+@media only screen and (max-width: 1136px) {
+	#social-contribution-sec .av_one_fourth {
+	   	margin: 62px 60px 0 0;
+	   	width: 250px;
+    	height: 250px;
+	}
+	#social-contribution-sec .av_one_fourth:nth-child(2){
+		margin-left:50px;
+	}
+	#social-contribution-sec .av_one_fourth:nth-child(4){
+		margin-left:50px;
+	}
+}
+@media only screen and (max-width: 1050px) {
+	/* SPC 행복한재단 소개 */
+	.av_one_fifth.found-busi-list{
+		min-height:365px;
+	}
+	.found-busi-list dt:before{
+		top:12px;
+	}
+	.av_one_fifth.found-busi-list dt{
+		margin-bottom:16px;
+	}
+	/* 사회공헌 소개 */
+	#human-resource-development02 table tr td .txt .btn_type1 {
+		display:block;
+		margin:10px 0 0 0;
+	}
+	/* 사회공헌 소개 끝 */
+	/* csr */
+	.date + .report-status {
+		margin-left: 35px;
+	}
+	.tip-off-answer {
+		padding: 45px 40px;
+	}
+	.tip-off-reply .reply_info {
+		width: 140px;
+	}
+	.tipOff-cont-box {
+		padding: 40px 0;
+	}
+}
+@media only screen and (max-width: 989px) {
+	/* SPC 행복한재단 소개 */
+	.found-info-box02 ul li{
+		width:190px; height:58px;
+		line-height:55px;
+	}
+	.found-info-box02 ul:after{
+		left:101px; right:100px;
+	}
+	.av-flex-cells .av_one_third.found-info-box03{
+		padding:35px 25px;
+	}
+	.found-info-box03 p{
+		word-break:keep-all;
+	}
+	.found-info-box03 img{
+		width:80px;
+	}
+	.responsive #top #wrap_all .foundation-info-sec02 .flex_column.found-info-box03{
+		max-width:100%;
+	}
+	.foundation-info-sec02{
+		padding:45px 0 25px;
+	}
+	.main_color .found-history-box h3{
+		margin-bottom:0.5em;
+	}
+	.found-history-list li{
+		padding-left:18px;
+		margin-bottom:25px;
+	}
+	.found-history-list li strong{
+		position:static;
+		display:block;
+	    margin: 0 0 0.5em -18px;
+	}
+	.found-history-list li .img{
+		margin-left:0;
+	}
+	.foundation-history-sec02 .swiper-pagination button{
+		width:90px; height:34px;
+		line-height:34px;
+	}
+	.foundation-info-sec01 .ci_txtBox{
+		margin-left: 0; 
+		width: 100%;
+	}
+	.foundation-info-sec01 .avia-image-container.avia-align-center {
+		margin: 0; 
+	}
+	.foundation-info-sec02 .found-info-box01 dd{
+		padding: 0 15px;
+	}
+
+	/* 사회공헌 소개 */
+	#independence-support02 .slide_btn_wrap .swiper-button {
+		top:70%;
+	}
+	#independence-support02 .stit br {
+		display:none;
+	}
+	#independence-support02 {
+		padding:40px 0 20px;
+	}
+	#social-contribution-sec .tit {
+		font-size:40px;
+	}
+	.independence-support-item .av_one_half.first ,
+	.independence-support-item .av_one_half{
+		width:100%;
+		margin-right:0;
+	}
+	.independence-support-item .av_one_half.first {
+		margin-bottom:20px;
+	}
+	#human-resource-development01 {
+		width:100%;
+	}
+	#human-resource-development01.human-resource-development01-1 {
+		padding: 60px 0 40px;
+	}
+	#human-resource-development01.human-resource-development01-2 {
+		padding:40px 0 0;
+	}
+	#human-resource-development01 .flex_cell {
+		display:table !important;
+		width:100% !important;
+	}
+	#human-resource-development01 .flex_cell_inner {
+		padding:0 20px 20px;
+	}
+	#human-resource-development01 .av_one_half .tbox {
+		padding:20px 15px;
+		min-height:auto;
+	}
+	#human-resource-development01 .flex_cell_inner .avia-image-containe {
+		margin:0;
+	}
+	#human-resource-development01 .av_one_full {
+		margin-bottom:0;
+	}
+	#shar-sec03 .ct1 {
+		font-size:35px;
+	}
+	#shar-sec03 .ct1 em {
+		font-size:14px;
+	}
+	#shar-sec03 .ct2 {
+		font-size:16px;
+	}
+	#shar-sec03 .av_one_third {
+
+		width:200px !important;
+		height:200px;
+	}
+	#shar-sec03 .av_one_third:before {
+		width:230px;
+		height:230px;
+	}
+	#shar-sec03 .icon-1,
+	#shar-sec03 .av_one_third:hover .icon-1 {
+		width:31.5px;
+		height:32.5px;
+		background-size:cover;
+	}
+	#shar-sec03 .icon-2,
+	#shar-sec03 .av_one_third:hover .icon-2 {
+		width:30px;
+		height:38.5px;
+		background-size:cover;
+	}
+	#shar-sec03 .icon-3,
+	#shar-sec03 .av_one_third:hover .icon-3 {
+		width:39px;
+		height:33px;
+		background-size:cover;
+	}
+	#shar-sec03 .abs_test {
+		font-size:16px;
+	}
+	#shar-sec03 .av_one_third:nth-of-type(2) {
+		margin:0 30px;
+	}
+	#shar-sec03 .cellbox {
+		padding:100px 15px;
+	}
+	.board-default-list thead th {
+		font-size:14px;
+		padding:15px 5px;
+	}
+	.board-default-list tbody td {
+		font-size: 14px;
+		padding: 15px 5px;
+	}
+	html body #wrap_all #main #operation-sec02 .tit {
+		margin-bottom:50px;
+	}
+	html body #wrap_all #main #operation-sec02 .av_one_third {
+		width:49%;
+		margin-left:0;
+		margin-right:2%;
+		margin-top:0;
+		margin-bottom:20px;
+	}
+	html body #wrap_all #main #operation-sec02 .av_one_third:nth-of-type(2n) {
+		margin-right:0;
+	}
+	#charter-sec01 .titbox {
+		margin-bottom:25px;
+		padding-bottom:25px;
+	}
+	#charter-sec01 .titbox > p br {
+			display:none;
+	}
+	#charter-sec01 ul li  {
+		padding:13px 0 13px 30px;
+	}
+	#charter-sec01 ul li p {
+		display:none;
+	}
+	#charter-sec01 ul li p.ft-18 {
+		display:inline-block;
+	}
+	#charter-sec01 {
+		padding:60px 0;
+	}
+	.ethics_box p{
+		font-size:14px;
+	}
+	#charter-sec01 .ethics_box p + p {
+		margin:20px 0 0 0;
+	}
+	/* 사회공헌 소개 끝 */
+	/* 부정제보 인트로 */
+	.report-pop{
+		overflow-y:visible;
+	}
+	.report-pop .gpop-wr > div > div{
+		padding:45px 30px
+	}
+	.report-pop .global-cls{
+		top:38px;
+	}
+	/* 부정제보 제보폼 */
+	.tip-off-form {
+	    padding: 70px 0 10px;
+	}
+	.report-top-btn{
+		font-size:0;
+		margin-bottom:55px;
+	}
+	.textbox{
+		padding:27px 35px;
+		height:230px;
+	}
+	.chkbox-label label, .radio-label label{
+		padding-left:34px;
+		height:27px;
+		line-height:27px;
+		background-position-y:2px;
+		background-size:25px;
+	}
+	.report-form .pop-td textarea{
+		height:180px;
+	}
+	.pop-td input.input-narrow{
+		max-width:340px;
+	}
+	.file-btn{
+		width:182px;
+	}
+	.report-form .email-row .table {
+	    max-width: 347px;
+	}
+	#top .radio-label + .radio-label {
+	    margin-left: 30px;
+	}
+	.btn-wrap{
+		margin:35px 0;
+	    padding: 45px 0;
+	}
+	.report-form + .btn-wrap{
+		padding:40px 0;
+	}
+	.report-form .email-row{
+		margin:0;
+	}
+	.report-form + .btn-wrap {
+	    padding: 28px 0;
+	    margin:18px 0;
+	    font-size:0;
+	}
+	/* 부정제보 완료 */
+	.tip-off-complete{
+		padding-top:65px;
+	}
+	/* 처리결과 확인 로그인 */
+	#top .report-login legend {
+	    padding-bottom: 15px;
+	    margin-bottom: 23px;
+	}
+	.main_color .report-list table caption{
+		padding-bottom:15px;
+	}
+	.board-pagination a.prev-btn, .board-pagination a.next-btn{
+		min-width:25px;
+		margin:0 6px;
+	}
+	.board-pagination a.prev-btn{
+		background-size:7px;
+		margin-right:18px;
+	}
+	.board-pagination a.next-btn{
+		background-size:7px;
+		margin-left:18px;
+	}
+	/* csr */
+	.pop-h2{
+/*		margin-top: 50px;*/
+	}
+	.report-list{
+		margin-top: 50px;
+	}
+	
+}
+
+@media only screen and (max-width:800px) {
+	#social-contribution-sec .av_one_fourth {
+		width:250px;
+		height:250px;
+		margin:50px 50px 0 0;
+	}
+}
+
+@media only screen and (max-width:786px) {
+	#social-contribution-sec .av_one_fourth {
+	    margin: 62px 30px 0 0;
+	}
+	#social-contribution-sec .av_one_fourth:nth-child(2){
+		margin-left:30px;
+	}
+	#social-contribution-sec .av_one_fourth:nth-child(4){
+		margin-left:30px;
+	}
+}
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+	#awards-sec01 .swiper-button-next,
+	#awards-sec01 .swiper-button-prev {
+		width:20px;
+		height:20px;
+		background-size:7px 14px;
+	}
+	html body #wrap_all #shar-sec04 .slide_wrap .next-slide,
+	html body #wrap_all #shar-sec04 .slide_wrap .prev-slide {
+		top:250px;
+	}
+	.mobile-top-40 {margin-top:40px !important;}
+	/* SPC 행복한재단 소개 */
+	.foundation-info-sec01{
+		padding:40px 0 20px;
+	}
+	.responsive #top #wrap_all .foundation-info-sec02 .flex_column{
+	    margin: 0px auto 25px;
+	    padding: 40px 25px;
+	    max-width: 80%;
+	}
+	.foundation-info-sec01 p{
+		margin-top:-0.8em;
+	}
+	.foundation-info-sec01 .avia-image-container.avia-align-center {
+	    margin: 20px -15px 0px 0;
+	}
+	.found-info dt, p.found-info-box03{
+		width:115px; height:36px;
+		line-height:35px;
+		margin-bottom:15px;
+	}
+	/* .found-info-box02 ul:after, .found-info-box02 ul:before{
+		display:none;
+	} */
+	.found-info-box02 ul{
+		margin: 75px auto 40px;
+	}
+	.found-info-box02 ul li:before {
+		height: 31px;
+	}
+	.found-info-box02 ul:after {
+		left: 105px;
+		right: 104px;
+	}
+	.found-info-box02 ul li{
+	    height: 50px;
+	    line-height: 45px;
+		margin: 7px 10px;
+	 }
+	.found-busi-list, .foundation-info-sec03 .av_one_fifth.first + .av_one_fifth{
+		padding:50px 35px 30px;
+	}
+	.found-busi-list dl + dl{
+		margin-top:15px;
+	}
+	.found-busi-list dt, .found-busi-list dd{
+		display:block;
+		width:100%;
+		text-align:center;
+	}
+	.found-busi-list dt, .av_one_fifth.found-busi-list dt{
+	    display: table;
+	    width: auto;
+		margin:0 auto 0.4em;
+	}
+	.found-busi-list dt{
+		padding-left:15px;
+	}
+	.av_one_fifth.found-busi-list dd + dd{
+		margin-top:0.4em;
+	}
+	.foundation-info-sec03 .av_one_fifth.first{
+		z-index:3;
+	}
+	.main_color .found-busi-title{
+		max-width:200px;
+		margin:0 auto -50px;
+	}
+	.av_one_fifth.found-busi-list{
+		min-height:auto;
+	}
+	.foundation-info-sec03 .av_one_fifth + .av_one_fifth{
+		padding-top:30px;
+	}
+	.foundation-info-sec03{
+		padding:50px 0;
+	}
+	.foundation-info-sec03 h3 + p{
+		margin-bottom:2em;
+	}
+	.foundation-info-sec03 h3 + p br{
+		display:none;
+	}
+	/* SPC 행복한재단 */
+	.foundation-history-sec01{
+		padding-top:45px;
+	}
+	.foundation-history-sec02 .found-history-box{
+		padding:30px 25px;
+	}
+	.foundation-history-sec02 .swiper-pagination span{
+		flex-wrap:wrap;
+		justify-content:center;
+	}
+	.foundation-history-sec02 .swiper-pagination button{
+	    width: 19%;
+	    margin: 3px 0.5%;
+	}
+	.foundation-history-sec02 .swiper-container{
+		margin:5px 0;
+	}
+	.foundation-history-sec02 .swiper-container-horizontal>.swiper-scrollbar{
+		margin:15px 0 20px;
+	}
+	.foundation-history-sec02 .swiper-pagination{
+		margin-bottom:60px;
+	}
+	.found-history-list li .img{
+		border-radius:15px;
+	}
+	.board-default-list table {
+		table-layout: fixed;
+	}
+	.foundation-info-sec02 .found-info-box01 dd{
+		font-size:18px;
+	}
+	.notice-sec .cardtype-list li .cont {
+		padding: 15px;
+	}
+
+	.cardtype-list .item-3 > ul > li:nth-child(3n-2) {
+		margin-left: 2%;
+	}
+
+	.cardtype-list .item-3 > ul > li {
+		width: 47%;
+	}
+	#finance-report-sec h2 + p br{
+		display:none;
+	}
+
+	/* 사회공헌 소개 */
+	.independence-support-item {
+		padding:0 0 60px;
+	}
+	.independence-support-item .loc-box {
+		padding: 10px 15px;
+	}
+	.independence-support-item .av_one_half_wrap {
+		padding:20px;
+	}
+	#independence-support02 .slide_btn_wrap .swiper-button {
+		top:78%;
+	}
+	#independence-support02 .slide_btn_wrap .swiper-button-prev {
+		left:-1%;
+	}
+	#independence-support02 .slide_btn_wrap .swiper-button-next {
+		right:-1%;
+	}
+	#independence-support02 .slide_btn_wrap {
+		padding:0 15px;
+	}
+	#independence-support02 .slide_btn_wrap ul li {
+		padding: 15px 20px;
+		font-size: 14px;
+	}
+	#independence-support02 .slide_btn_wrap {
+		margin:40px 0 0 0;
+	}
+	#independence-support01 {
+		padding:60px 0 0;
+	}
+	#independence-support01 .av_one_half:nth-of-type(2)  {
+		margin:0 0 40px !important; 
+	}
+	#social-contribution-sec .av_one_fourth {
+	    padding: 75px 0 0 0;
+	    width: 250px !important;
+    	margin: 15px !important;
+	}
+	#social-contribution-sec .av_one_fourth p.desc {
+		max-width:100px;
+	}
+	#social-contribution-sec .avia-animated-number-title {
+		font-size:26px;
+	}
+	#social-contribution-sec .av_one_fourth p.desc{
+		text-align:center;
+	}
+	#social-contribution-sec .av_one_fourth .tbox {
+		height:70px;
+		margin:0 0 15px;
+	}
+	#social-contribution-sec .av_one_fourth .tbox .txt {
+		height:40px;
+		font-size:14px;
+	}
+	#social-contribution-sec .flex_cell_inner {
+		padding:120px 20px 60px;
+	}
+	#human-resource-development02 table tr td {
+		padding:15px 0;
+	}
+	#social-contribution-sec .tit {
+		font-size:32px;
+		margin:0 0 20px;
+	}
+	#social-contribution-sec .txt + .txt {
+		margin:15px 0 40px;
+	}
+	#human-resource-development02 table,
+	#human-resource-development02 table > tbody > tr > th,
+	#human-resource-development02 table > tbody > tr > td	{
+		display:block !important;
+		width:100%;
+	}
+	#human-resource-development02 table tr th, #human-resource-development02 table tr td {
+		border:none;
+	}
+	#human-resource-development02 table tr:first-child th, 
+	#human-resource-development02 table tr:first-child td {
+		border:none;
+	}
+	#human-resource-development02 table tr:first-child th {
+		border-bottom:2px solid #23afe3;	
+	}
+	#human-resource-development02 table tr th {
+		font-size:18px;
+		border-bottom:2px solid #23afe3;
+		text-align:left;
+		padding:20px 0 5px;
+	}
+	#human-resource-development02 table tr th br {
+		display:none;
+	}
+
+	#human-resource-development02 table tr td .txt {
+		font-size:14px;
+	}
+	#human-resource-development02 table tr td .txt .btn_type1 {
+		display:block;
+		margin:15px 0 0 0;
+	}
+	#human-resource-development02 .table_wrap .cellbox:first-child .cell {
+		font-size:13px;
+	}
+	#human-resource-development02 .table_wrap .cellbox .cell {
+		font-size:13px;
+	}
+	#human-resource-development02 {
+		padding:60px 0;
+	}
+	#human-resource-development02 .link_wrap {
+		font-size:0;
+	}
+	#human-resource-development02 .link_wrap li {
+		width: 50%;
+		border:1px solid #e1e1e1;
+		margin: 0;
+		margin-right:0 !important;
+		margin-left:-1px;
+		margin-top:-1px;
+		overflow:hidden;
+	}
+	#human-resource-development02 .link_wrap li:first-child {
+		border-top-left-radius:20px;
+	}
+	#human-resource-development02 .link_wrap li:nth-of-type(2) {
+		border-top-right-radius:20px;
+	}
+	#human-resource-development02 .link_wrap li:last-child {
+		width:calc(100% - 1px);
+		border-bottom-left-radius:20px;
+		border-bottom-right-radius:20px;
+	}
+	#human-resource-development02 .link_wrap li a {
+		border-radius:0 !important;
+		text-align:center;
+		font-size:14px;
+		padding:8px 10px;
+	}
+	#human-resource-development01 .avia-image-container.avia-align-center,
+	#human-resource-development01 .flex_column {
+		margin-bottom:0 !important;
+	}
+	#shar-sec01 .tbox {
+		padding:20px 15px;
+	}
+	#shar-sec03 {
+		padding:50px 0;
+	}
+	#shar-sec03 .av_one_third {
+		display:block;
+		margin:0 auto 20px !important; 
+		width:230px !important;
+		height:230px;
+	}
+	#shar-sec03 .av_one_third:before {
+		width:260px;
+		height:260px;
+	}
+	#shar-sec03 .ct1 {
+		font-size:50px;
+	}
+	#shar-sec03 .cellbox {
+		padding:100px 15px 20px;
+	}
+	#shar-sec02 .tbox {
+		padding:15px;
+	}
+	#shar-sec03 .cellbox .cell{
+		width:100%;
+		margin-right:0 !important;
+	}
+	#shar-sec03 .cellbox .cell:first-child {
+		border-bottom:1px solid #eaeaea;
+		padding-bottom:15px;
+		margin-bottom:40px;
+	}
+	#shar-sec03 .cellbox .cell:first-child:before {
+		display:none;
+	}
+	#shar-sec04 {
+		padding:60px 0;
+	}
+	#shar-sec04 .box .left,
+	#shar-sec04 .box .right {
+		width:100%;
+		padding:0 20px;
+	}
+	#shar-sec04 .box .right  {
+		margin:10px 0;
+	}
+	#shar-sec04 .avia-smallarrow-slider-heading {
+		height:1px;
+		margin-top:-20px;
+	}
+	#shar-sec04 .avia-smallarrow-slider .avia-slideshow-arrows {
+		height:1px;	
+	}
+	#shar-sec04 .shar-tab-wrap > .shar-tab {
+		font-size:16px;
+		height:40px;
+		line-height:40px;
+	}
+	#shar-sec04 .avia-content-slider {
+		margin:20px 0 0;
+	}
+	#shar-sec04 .avia-content-slider .slide-entry-excerpt {
+		overflow:inherit;
+	}
+	#shar-sec03 .cellbox .cell .tbox strong {
+		font-size:18px;
+	}
+	.board-default-wrap {
+		padding:20px 0 0 0;
+	}
+	#awards-sec01 .board-default-list table thead {
+		display:none;
+	}
+	#awards-sec01 .board-default-list table ,
+	#awards-sec01 .board-default-list table * {
+		display:block;
+		text-align:left;
+		background:transparent;
+	}
+	#awards-sec01 .board-default-list table {
+		border-top:1px solid #e1e1e1;
+		padding-top:15px;
+	}
+	#awards-sec01 .board-default-list table tbody tr {
+		border-bottom:1px solid #e1e1e1;
+		margin-bottom:15px;
+		padding-bottom:15px;
+	}
+	#awards-sec01 .board-default-list table tbody tr td {
+		padding:5px;
+		border-bottom:none;
+	}
+	#awards-sec01 .board-default-list table tbody tr td:before {
+		content:'';
+		display:inline-block;
+		font-size:14px;
+		font-weight:Bold;
+		color:#000;
+		width:85px;
+	}
+	#awards-sec01 .board-default-list table tbody tr td:nth-child(1):before {
+		content:'상훈명';
+	}
+	#awards-sec01 .board-default-list table tbody tr td:nth-child(2):before {
+		content:'수상내역';
+	}
+	#awards-sec01 .board-default-list table tbody tr td:nth-child(3):before {
+		content:'수여기관';
+	}
+	#awards-sec01 .board-default-list table tbody tr td:nth-child(4):before {
+		content:'수상년월';
+	}
+	#awards-sec01 .av_one_fourth .avia_textblock {
+		min-height:auto;
+		padding:20px 20px 40px;
+	}
+	#awards-sec01 .av_one_fourth .avia_textblock strong {
+		margin:0 0 10px;
+	}
+	#award-performance .board-category-wrap div {
+		width:50%;
+		margin-right:0;
+		border:1px solid #eaeaea;
+		border-radius:0;
+		height:45px;
+		line-height:45px;
+		margin:-1px 0 0 -1px;
+	}
+	#award-performance .board-category-wrap div:nth-of-type(1) {
+		border-top-left-radius:30px;
+	}
+	#award-performance .board-category-wrap div:nth-of-type(2) {
+		border-top-right-radius:30px;
+	}
+	#award-performance .board-category-wrap div:last-child {
+		width:100%;
+		border-bottom-left-radius:30px;
+		border-bottom-right-radius:30px;
+	}
+	#award-performance .board-category-wrap {
+		margin:40px 0 15px;
+	}
+	#operation-sec01 {
+		padding:60px 0;
+	}
+	#operation-sec02 .av_one_third {
+		height:auto;
+	}
+	#operation-sec02 .flex_cell_inner {
+		padding:60px 20px;
+	}
+	html body #wrap_all #main #operation-sec02 .tit{
+		margin-bottom:40px;
+	}
+	#charter-sec01 ul li p {
+		font-size:14px;
+	}
+	#charter-sec01 ul li p br {
+		display:none;
+	}
+	#charter-sec01 ul li span {
+		top:12px;
+	}
+	/* 사회공헌 소개 끝 */
+	/* 부정제보 인트로 */
+	.tip-off-intro01{
+		padding:45px 0 25px;
+	}
+	.type-box{
+		padding-left:0;
+	}
+	.type-box h3{
+		margin:1.2em 0;
+		text-align:center;
+		position:static;
+	}
+	.type-box li, .type-box li:nth-child(3n - 2){
+		width:48%;
+		margin:0 0 20px 4%;
+	}
+	.type-box li:nth-child(odd){
+		margin-left:0;
+	}
+	.type-box .num{
+		margin-bottom:8px;
+	}
+	.intro-btn .main-btn, .csReport .select, .csReport .main-btn{
+		display:block;
+		margin:0 auto 10px;
+	}
+	.tip-off-intro02 {
+	    padding: 45px 0 50px;
+	}
+	.tip-off-intro02 h2{
+		margin-bottom:1.5em;
+	}
+	.report-pop .gpop-wr > div > div{
+		padding:5px;
+	}
+	.report-pop .global-cls{
+		position: fixed;
+		top: 21px;
+		right: 26px;
+	}
+	#tipOffReport .intro-btn, .csReport .intro-btn {
+	    margin: 35px 0 0px;
+	}
+	.report-pop .select ul{
+		max-height:150px;
+	}
+	/* 부정제보 제보폼 */
+	.tip-off-form {
+	    padding: 45px 0 35px;
+	}
+	.report-top-btn{
+		margin-bottom:20px;
+	}
+	.report-form {
+	    margin: 25px 0 0;
+	}
+	#top .report-form legend, #top .report-login legend{
+		line-height:1.4;
+		padding-bottom:12px;
+		margin-bottom:15px;
+	}
+	.textbox, .report-form .pop-td textarea{
+	    padding: 15px 15px;
+	    height: 170px;
+	}
+	.placeholder-wrap .placeholder{
+		padding:15px;
+	    line-height: 1.7;
+	}
+	.report-form .form-chkbox{
+		margin-top:12px;
+	}
+	.report-form fieldset > .table > div{
+		display:block;
+	}
+	.report-form .pop-th{
+		width:100%;
+	}
+	.report-form ::placeholder{
+		font-size:14px;
+	}
+	.report-form .pop-td input, .report-login .pop-td input{
+		padding:0 15px;
+	}
+	.form-file, .report-form .email-row{
+		position:relative;
+		padding-right:125px;
+	}
+	.file-btn, .report-form .pop-td .select{
+		position:absolute;
+		top:0; right:0;
+		max-width:120px;
+		margin:0;
+	}
+	.file-btn .btn img {
+	    margin: -6px 0 0 5px;
+	}
+	.in-bl-th, .in-bl-td{
+		display:block;
+		margin:0 0 5px;
+	}
+	.form-radio-wrap{
+		margin:8px 0;
+	}
+	#top .report-form label, #top .report-login label{
+		font-size:1em;
+	}
+	.report-form .pop-td .data-hi {
+	    width: 14px;
+	}
+	.report-form .pop-td .table > div {
+	    padding-right: 3px;
+	}
+	.report-form .pop-td .table > div:last-child{
+		padding-right:0;
+	}
+	.btn-wrap {
+	    margin: 30px 0;
+	    padding: 35px 0;
+	}
+	/* 부정제보 완료 */
+	.tip-off-complete{
+		padding:45px 0 0;
+	}
+	.tip-off-complete .complete{
+		padding-top:25px;
+	}
+	.tip-off-complete .pop-h2 h2{
+		margin-bottom:5px;
+	}
+	.tip-off-complete .complete img{
+		margin-bottom:17px;
+	    width: 48px;
+	}
+	.report-info dt, .report-info dd{
+		padding:0 15px;
+		height:50px;
+		line-height:50px;
+	}
+	/* 부정제보 로그인 */
+	.tip-off-login {
+	    padding: 45px 0 0;
+	}
+	.report-login-wrap{
+		padding-top:15px;
+	}
+	.report-login .pop-th{
+		width:30%;
+	}
+	/* csr */
+	.date + .report-status {
+		margin-left: 30px;
+	}
+	.report-status {
+		width: 136px;
+		height: 50px;
+		line-height: 45px;
+	}
+	.main_color .tip-off-reply {
+		padding: 0 30px;
+	}
+	.tip-off-reply h4 {
+		position: static;
+		top: 0;
+		left: 0;
+		padding-top: 20px;
+	}
+	#top .tip-off-reply textarea {
+		padding: 15px;
+	}
+	.main_color .reply_save {
+		height: 35px;
+		line-height: 35px;
+	}
+
+	.tip-off-reply .reply_view_box > div {
+		display:block;
+	}
+
+	.tip-off-reply .write_cont_tit {
+		width: 100%;
+	}
+
+	.tip-off-reply .reply_view_box{
+		position: relative;
+	}
+
+	.tip-off-reply .reply_view_box .reply_info {
+		width: 100%;
+		text-align:right;
+		position: absolute;
+		padding:0 15px;
+		top:15px;
+		right:0;
+	}  
+
+	.tip-off-reply .reply_write .reply_info{
+		position: static;
+		left:0;
+		text-align: center;
+	}
+	.write_cont_tit.reply_writer {
+		padding-bottom: 3px;
+		padding-right: 35%;
+	}
+	.tip-off-answer {
+		padding: 40px 30px;
+	}
+
+	.tip-off-view .title .view-info {
+		display: block;
+		width: 100%;
+		margin-top: 15px;
+	}
+	.tip-off-view .title h4 {
+		display: block;
+		width: 100%;
+		padding-right: 35%;
+	}
+	.report-status {
+		width:100px;
+	}
+
+	.tip-off-view .title .view-info .date{
+		text-align:left;
+		display:block;
+	}
+	.main_color .tip-off-reply {
+		padding: 0 10px;
+	}
+	.tip-off-view .title {
+		padding: 20px 15px 15px;
+		position: relative;
+	}
+
+	.tip-off-view .title .report-status{
+		position: absolute;
+		top: 15px;
+		right:15px;
+	}
+	.tipOff-cont-box {
+		padding: 25px 0;
+	}
+	.reply_write .reply_view_box .reply_info {
+		display: block;
+		margin-top: 15px;
+	}
+	.reply_write .reply_view_box .write_cont_tit{
+		margin-bottom:5px;
+	}
+	.tip-off-list {
+		padding: 0;
+	}
+	.av-flex-cells .found-info-box {
+		border-radius: 30px !important;
+	}
+	.main_color .found-busi-title {
+		border-radius: 30px;
+	}
+	
+	.foundation-history-sec02 .found-history-box, .av-flex-cells .av_one_third.found-info-box03, .found-busi-list{
+		border-radius: 30px !important;
+	}
+}
+@media only screen and (max-width: 700px) {
+	/* 사회공헌 소개 */
+	html body #wrap_all #main #operation-sec02 .av_one_third {
+		height: auto;
+		width:100%;
+		max-width: 450px;
+		margin: 0 auto 20px !important;
+		display: block;
+		float: none;
+	} 
+	/* 사회공헌 소개 끝 */
+	/* 행복한 재단 */
+	.found-info-box02 ul li {
+		width: 160px;
+		margin: 10px 5px;
+	}
+	.found-info-box02 ul li:before {
+		height: 35px;
+	}
+	.found-info-box02 ul:after {
+		left: 86px;
+		right: 85px;
+	}
+}
+@media only screen and (max-width: 600px) {
+	/* 사회공헌 소개 */
+	#awards-sec01 .swiper-button-prev {
+		left:-5px;
+	}
+	#awards-sec01 .swiper-button-next {
+		right:-5px;
+	}
+	/* 사회공헌 소개 끝 */
+	/* csr */
+	.reply_write .reply_view_box .write_area {
+		display: block !important;
+	}
+	.report-status {
+		width:80px;
+		height: 35px;
+		line-height: 30px;
+	}
+	.report-status > span{
+		font-size:12px;
+	}
+	.tip-off-answer {
+		padding: 15px 20px;
+		border-radius: 30px;
+	}
+}
+
+@media only screen and (max-width: 566px) {
+	/* 행복한 재단 */
+	.found-info-box02 ul li {
+		width: 130px;
+	}
+	.foundation-info-sec02 .found-info-box01 dd {
+		font-size: 16px;
+	}
+	.found-info-box02 ul:after {
+		left: 70px;
+		right: 69px;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	#social-contribution-sec .av_one_fourth .tbox .txt {
+		font-size:13px;
+		height:35px;
+	}
+	.cardtype-list .item-3 > ul > li {
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 20px;
+	}
+	#social-contribution-sec .av_one_fourth {
+		margin:13px 0!important;
+		/*width:180px !important;*/
+	} 
+	#social-contribution-sec .av_one_fourth:nth-of-type(2n) {
+		margin-right:0 !important;
+	}
+	.cardtype-list .item-3 > ul > li:nth-child(3n-2) {
+		margin-left: 0;
+	}
+	.notice-sec {
+		padding: 50px 0 30px;
+	}
+
+	.found-info-box02 ul {
+		margin: 15px auto 50px;
+	}
+	.found-info-box02 ul {
+		margin: 30px auto 50px;
+	}
+	#privacy_sec .txt, .privacy-page dd, #privacy_sec .privacyList li a, #privacy_sec strong, .privacy-page dt {
+		font-size:14px;
+	}
+
+
+}
+
+@media only screen and (max-width: 499px) {
+  /* Add your Mobile Styles here */
+  	/* SPC 행복한재단 소개 */
+	.responsive #top #wrap_all .foundation-info-sec02 .flex_column{
+	    max-width: 100%;
+	}
+	.found-info-box02 ul li {
+		width: 200px;
+	    margin: 12px auto;
+	    display: table;
+	}
+	.found-info-box02 ul:after {
+		display:none;
+	}
+
+	.found-info-box02 ul li:before, 
+	.found-info-box02 ul li:after{
+		display:none;
+	}
+	.found-info-box02 ul:before {
+		height: 210px;
+		top: -30px;
+	}
+
+	.board-pagination a {
+		padding:0 2px;
+	}
+	.board-pagination a.prev-btn {
+		margin-right: 0;
+		background-size: 8px;
+	}
+
+	.board-pagination a.next-btn {
+		margin-left: 0;
+		background-size: 8px;
+	}
+	
+}
+
+@media only screen and (max-width:450px) {
+	#social-contribution-sec .av_one_fourth {
+		margin:13px 0 !important;
+	}
+	#social-contribution-sec .av_one_fourth .tbox .year_tag {
+		width:65px;
+		height:20px;
+		line-height:20px;
+		font-size:12px;
+		margin:0 auto;
+	}
+	#social-contribution-sec .av_one_fourth .tbox .txt {
+		height:35px;
+	}
+	#social-contribution-sec .av_one_fourth .tbox {
+		margin:0 auto;
+	}
+	#social-contribution-sec .avia-animated-number-content p{
+		font-size:13px;
+	}
+}

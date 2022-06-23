@@ -1,0 +1,119 @@
+
+@media only screen and (max-width: 1744px) {
+}
+@media only screen and (max-width: 1679px) {
+	html body #wrap_all .adr_box .big_txt {
+		margin:0 0 15px;
+	}
+	html body #wrap_all #adr-sec01 .adr_box_wrap {
+		margin:20px 0 0 0;
+	}
+}
+@media only screen and (max-width: 1440px) {
+	html body #wrap_all #adr-sec01 .adr_box {
+		padding:25px 0 20px;
+	}
+	#adr-sec01 .adr_box_2 .tbox .info_tag {
+		width:180px;
+	}
+}
+@media only screen and (max-width: 1365px) {
+	#startup-sec01 .flex_cell_inner {
+		padding: 0 50px;
+	}
+	#startup-sec01 .swiper-button-prev {
+		left:0;
+	}
+	#startup-sec01 .swiper-button-next {
+		right:0;
+	}
+}
+@media only screen and (max-width: 1279px) {
+}
+@media only screen and (max-width: 1050px) {
+	#adr-sec01 .adr_box_2 .tbox .info_tag {
+		width:140px;
+	}
+}
+@media only screen and (max-width: 989px) {
+	#startup-sec01 {
+		padding:60px 0;
+	}
+	#startup-sec01 .flex_cell_inner .av_one_fifth {
+		width:32.5%;
+		margin:0;
+		margin-right:1.25%;
+		margin-bottom:40px;
+	}
+	#startup-sec01 .flex_cell_inner .av_one_fifth:nth-of-type(3n) {
+		margin-right:0;
+	}
+	#startup-sec01 .flex_cell_inner .av_one_fifth a {
+		max-width:300px;
+		margin:30px auto 0;
+	}
+	html body #wrap_all #adr-sec01 .flex_cell_inner .av_one_half {
+		width:50.4%;
+	}
+	html body #wrap_all #adr-sec01 .flex_cell_inner .av_one_half.first {
+		width:42.6%;
+	}
+	html body #wrap_all #adr-sec01 .adr_box .info_txt {
+		font-size:14px;
+	}
+}
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+	html body #wrap_all #adr-sec01 {
+		padding:0 0 60px;
+	}
+	html body #wrap_all #main #startup-sec01 .flex_cell_inner .av_one_fifth {
+		width:48%;
+		margin:0;
+		margin-right:4%;
+		margin-bottom:40px;
+	}
+	html body #wrap_all #main #startup-sec01 .flex_cell_inner .av_one_fifth:nth-of-type(2n) {
+		margin-right:0;
+	}
+	html body #wrap_all #main #startup-sec01 .flex_cell_inner .av_one_fifth a {
+		max-width:300px;
+		margin:15px auto 0;
+		font-size:14px;
+		height:45px;
+		line-height:45px;
+	}
+	html body #wrap_all #adr-sec01 .flex_cell_inner .av_one_half {
+		width:100%;
+	}
+	html body #wrap_all #adr-sec01 .flex_cell_inner .av_one_half.first {
+		width:100%;
+		margin-right:0;
+	}
+	html body #wrap_all #adr-sec01 .adr_box .info_txt {
+		font-size:16px;
+	}
+	html body #wrap_all #adr-sec01 .adr_box_2 .tbox .info_tag {
+		display:inline-block;
+	}
+	#adr-sec01 .adr_box_2 .tbox .info_tag {
+		margin:0 10px 0 0;
+		width:100px;
+	}
+	html body #wrap_all #adr-sec01 .adr_box_2 .info_txt {
+		width:calc(100% - 110px);
+	}
+}
+@media only screen and (max-width: 700px) {
+}
+@media only screen and (max-width: 499px) {
+  /* Add your Mobile Styles here */
+  html body #wrap_all #main #startup-sec01 .flex_cell_inner .av_one_fifth a {
+	font-size:13px;
+  }
+}

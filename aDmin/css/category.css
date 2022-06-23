@@ -1,0 +1,437 @@
+#container.category {    
+    padding: 43px 0 31px 168px;
+}
+
+.category .search {
+    position: relative;
+    margin-bottom: 37px;
+}
+
+.cate_box {
+    position: relative;
+    font-size: 0;
+}
+
+.cate_add {
+    position: relative;
+    display: inline-block;
+    width: 364px;
+    min-height: 210px;
+    border-radius: 29px;
+    box-shadow: 2px 3px 20px 0 rgba(222, 222, 222, 0.16);
+    background-color: #ffffff;
+    margin-right: 23px;
+    padding: 36px 36px;
+    vertical-align: top;
+}
+
+.cate_add ul {
+    position: relative;
+}
+
+.cate_tit {
+    position: relative;
+    font-family: 'NanumSquare', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 27px;
+}
+
+.cate_check_wrap {
+    position: relative;
+    font-size: 0;
+}
+
+.cate_check_wrap li {
+    position: relative;
+    display: inline-block;
+}
+
+.cate_check_wrap.cate_check_li li {
+    display: block;
+}
+
+.cate_check_wrap .radio_label:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    border: solid 1px #dfe5ee;
+    display: inline-block;    
+    box-sizing: border-box;
+    vertical-align: middle;
+} 
+
+.cate_check_wrap .radio_label:checked {
+    left: 0;
+    top: 0;
+    content: '';
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: #36b4e5;
+}
+
+.cate_check_wrap span {
+    font-family: 'NanumSquare', sans-serif;
+    font-size: 13px;
+    color: #010101;
+    display: inline-block;
+    width: 60px;
+    cursor: pointer;
+    padding-left: 26px;
+    line-height: normal;
+}
+
+.cate_check_wrap label {
+    display: inline;
+}
+
+.cate-radio {
+    appearance: none;
+    visibility: hidden;
+    padding: 0;
+}
+
+.cate_check_wrap .cate-radio+label {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    border: solid 1px #dfe5ee;
+    display: inline-block;
+    position: relative;
+    margin-right: 90px;
+    vertical-align: middle;
+}
+
+.cate_check_wrap .cate-radio+label {
+    margin-right: 55px;
+}
+
+.cate_check_wrap .cate-radio:checked+label:after {
+    content: ' ';
+    width: 12px;
+    height: 12px;
+    border-radius: 9px;
+    background-color: #36b4e5;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+}
+
+.cate_check_li .cate-radio+label {
+    margin-right: 0;
+}
+
+.cate_check_li input{
+    padding: 9px 0;
+    font-size: 12px;
+    color: #010101;
+}
+
+.cate_check_li input[type="text"]{
+    padding-left: 5px;
+}
+.cate_1_box {
+    display: none;
+    margin-top: 30px;
+    padding: 10px 0;
+    position: relative;
+}   
+.cate_1_box.on {
+    display: block;
+} 
+
+.cate_check_li:before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;    
+    width: 110%;
+    height: 120%;
+    transform: translate(-50%,-50%);
+    border-radius: 29px;
+    border: solid 1px #707070;
+}
+
+.cate_bt_wrap {
+    position: relative;
+    text-align: right;
+    font-size: 0;
+    margin-top: 45px;
+}
+
+.cate_bt {
+    display: inline-block;
+    text-align: center;
+    line-height: 27px;
+    width: 55px;
+    height: 27px;
+    border-radius: 20px;
+    background-color: #36b4e5;
+    border: 0;
+    font-family: 'NanumSquare', sans-serif;
+    font-size: 12px;
+    color: #fff;
+    margin-right: 12px;
+    font-weight: 700;
+}
+
+.cate_bt.cate_bt_clear {
+    color: #000;
+    border: solid 1px #dfe5ee;
+    background: transparent;
+    margin-right: 0 !important;
+} 
+
+.cate_list_box {
+    position: relative;
+    display: none;
+}
+
+.cate_list_box.on {
+    display: inline-block;
+}
+
+.cate_list {
+    position: relative;
+    width: 457px;
+    min-height: 114px;
+    border-radius: 33px;
+    box-shadow: 2px 3px 20px 0 rgba(222, 222, 222, 0.16);
+    background-color: #ffffff;
+    padding: 30px 20px 51px 20px;
+}
+
+.cate_tb th {
+    padding-bottom: 12px;
+    border-bottom: solid 1px #505050;
+}
+
+.cate_list .tablecont {
+    border-top: solid 1px #505050;
+}
+
+.cate_list .tablecont input {
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.cate_list .tablecont td {
+    padding: 9px 5px;
+}
+
+.cate_list .tablecont td:nth-child(1), 
+.cate_list .tablecont td:nth-child(2) {
+    width: 10%;
+}
+
+.cate_list .tablecont td:nth-child(4), 
+.cate_list .tablecont td:nth-child(5) {
+    width: 20%;
+}
+
+.catelist_bt {
+    position: relative;
+    text-align: center;
+    margin-top: 99px;
+}
+
+.category .catelist_bt {
+    position: absolute;
+    right: 125px;
+    margin-top: 0;
+    top: 0;
+}
+.category .catelist_bt:last-child {
+    display: none;
+}
+
+.cate_selct_tit { 
+    margin-right: 10px; 
+    color: #000;
+}
+
+.catelist_bt .bt_cont {
+    width: 153px;
+    height: 49px;
+    border-radius: 40px;
+    border: solid 1px #36b4e5;
+    background: transparent;
+    font-family: 'NanumSquare', sans-serif;
+    font-size: 14px;
+    color: #000;
+    font-weight: 700;
+    padding-left: 0;
+}
+
+/*계열사 저장*/
+.catelist_bt_sub .bt_cont {
+    width: 153px;
+    height: 49px;
+    border-radius: 40px;
+    border: solid 1px #36b4e5;
+    background: transparent;
+    font-family: 'NanumSquare', sans-serif;
+    font-size: 14px;
+    color: #000;
+    font-weight: 700;
+    text-align : center;
+}
+
+.cate_bt_add {
+    background: #36b4e5 !important;
+    color: #fff !important;
+}
+
+.cate_list .cate_bt {
+    width: 101px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.cate_desc_box {
+    width: 513px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 21px;
+}
+.cate_list.cate_desc {
+    padding-top: 56px;
+}
+
+.cate_desc_box {
+    display: none;
+}
+
+.cate_desc_box.on {
+    display: inline-block;
+}
+
+.cate_list.cate_desc .tablecont {
+    margin-top: 10px;
+}
+
+.cate_list.cate_desc table th {
+    font-size: 14px;
+    font-weight: 600;
+    color: #000000;   
+    padding: 0;
+    text-align: left;
+}
+
+.cate_list.cate_desc table td {
+    padding: 18px 12px;
+    text-align: left;
+    position: relative;
+}
+
+.cate_list.cate_desc table input[type="text"] {
+    height: 36px;
+    border-radius: 20px;
+    border: solid 1px #dfe5ee;
+    font-size: 14px;
+    color: #010101;    
+    text-align: left;    
+    padding: 10px 15px;
+}
+
+.upload-hidden, .upload-hidden-sub {
+    display: none;
+}
+
+.upload-name {
+    display: block;
+    width: 230px;
+    height: 38px;
+    line-height: 36px;
+    border-radius: 20px;
+    border: solid 1px #e0e0e0;    
+    padding: 0px 15px;
+    color: #999999;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.upload-name-sub {
+    display: block;
+    width: 230px;
+    height: 38px;
+    line-height: 36px;
+    border-radius: 20px;
+    border: solid 1px #e0e0e0;    
+    padding: 0px 15px;
+    color: #999999;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+div[class*="file_in_add"], .adress_box {
+    font-size: 0;
+    padding: 0 0 10px;
+}
+/*
+.file_in_add2 {
+    font-size: 0;
+    padding: 0 0 10px;
+}
+
+.file_in_add3 {
+    font-size: 0;
+    padding: 0 0 10px;
+}*/
+
+div[class*="file_in_add"] + div[class*="file_in_add"],
+.adress_box + .adress_box {
+    padding: 10px 0;
+}
+
+.edit.file_bt {
+    position: absolute;
+    right: 0;
+    top: 18px;
+    height: 38px;
+    line-height: 38px;
+}
+.cate_list .tablecont tr td:first-child {
+    font-size: 0;
+}
+.cate_list .tablecont tr td:first-child a {
+    width: 10px;
+    height: 14px;
+    display: inline-block;
+}
+
+.sort.up {    
+    background: url(/aDmin/img/sort_up.png) no-repeat center;
+}
+
+.sort.down {    
+    background: url(/aDmin/img/sort_down.png) no-repeat center;
+    margin-left: 2px;
+}
+
+.sort.up:hover {
+    background: url(/aDmin/img/sort_up_h.png) no-repeat center;
+}
+
+.sort.down:hover {
+    background: url(/aDmin/img/sort_down_h.png) no-repeat center;    
+    margin-left: 2px;
+}
+
+.cate_list .select-ul li:first-child,
+.def-select .select-ul li:first-child {
+    display: none;
+}
+

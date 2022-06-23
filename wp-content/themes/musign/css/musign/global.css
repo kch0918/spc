@@ -1,0 +1,163 @@
+/*
+	공통
+*/
+#tip-off-intro02 .intro-btn > button:last-child, 
+html:lang(zh-hans) #tip-off-intro02 .intro-btn > button:last-child, 
+html:lang(en) #tip-off-intro02 .intro-btn > button:last-child, 
+html:lang(zh-hans) #main-banner, 
+html:lang(en) #main-banner, 
+html:lang(zh-hans) #main-sec09, 
+html:lang(en) #main-sec09{
+	 /* display:none;  */
+}
+
+/*
+	중문
+*/
+html:lang(zh-hans) *{
+    word-break: normal;
+}
+html:lang(zh-hans) *{
+    letter-spacing:0 !important;
+}
+html:lang(zh-hans) .loc-ul li.left{
+	padding-left:60px;
+}
+html:lang(zh-hans) .loc-ul li b{
+	width:60px;
+	margin-left:-60px;
+}
+
+/*
+	영문
+*/
+html:lang(en) *{
+    letter-spacing:0 !important;
+}
+html:lang(en) #spcway-sec04 .av_one_half .tbox{
+	height:505px;
+}
+html:lang(en) .sde-ul li{
+	font-size:12px;
+}
+html:lang(en) #top .av-main-nav ul a{
+	font-size:14px;
+}
+html:lang(en) .hub-top .tbox:before{
+	left:60%;
+}
+html:lang(en) .av_one_fifth.found-busi-list{
+	min-height:650px;
+}
+html:lang(en) .found-history-list li{
+	padding-left:160px;
+}
+html:lang(en) #social-contribution-sec .av_one_fourth .tbox .year_tag{
+	width:85px;
+}
+html:lang(en) #social-contribution-sec .av_one_fourth .tbox .txt{
+	height:70px;
+}
+html:lang(en) #independence-support01 .av_one_half .tbox a {
+	width: auto;
+    display: inline-block;
+    padding: 0 30px;
+}
+html:lang(en) .independence-support-item .loc-box > div{
+	width:100%;
+}
+html:lang(en) .independence-support-item .loc-box > div + div{
+	margin-top:15px;
+}
+html:lang(en) #shar-sec02 .tbox {
+	height: 355px;
+}
+html:lang(en) #operation-sec02 .av_one_third {
+	height: auto;
+}
+html:lang(en) .ethics_box .link_box a {
+	text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+	padding: 0 65px 0 35px;
+}
+html:lang(en) .adr_box_2 .tbox .info_tag {
+	vertical-align: middle;
+}
+html:lang(en) .adr_box_3 .info_tag {
+	width: 92px;
+}
+.loc-ul:lang(en-US) li b{
+	width:100%;
+	margin:5px 0 0;
+}
+.loc-ul:lang(en-US) li.left {
+    padding-left: 0;
+}
+html:lang(en) .blist .back .ft-16{
+	font-size:14px;
+}
+html:lang(en) #shar-sec03 .ct1{
+	font-size:50px;
+}
+html:lang(en) .adr_box_3 .info_txt{
+	padding-left:110px;
+}
+.adr_box_3 .info_txt .info_tag{
+	margin-left:-110px;
+}
+
+@media only screen and (max-width: 1440px){
+	#spcway-sec04 .av_one_half .tbox{
+	    height: 455px;
+	}
+	html:lang(en) #shar-sec03 .ct1{
+		font-size:40px;
+	}
+	html:lang(en) #shar-sec03 .ct2{
+		font-size:16px;
+	}
+}
+@media only screen and (max-width: 1279px){
+	html:lang(en) .found-history-list li{
+		padding-left:120px;
+	}
+	html:lang(en) #social-contribution-sec .av_one_fourth .tbox .txt {
+		height: 55px;
+	}
+
+}
+@media only screen and (max-width: 989px){
+	#spcway-sec04 .av_one_half .tbox{
+	    height: auto;
+	}
+	html:lang(en) .found-history-list li{
+		padding-left:0px;
+	}
+	html:lang(en) #shar-sec03 .ct1{
+		font-size:30px;
+	}
+	html:lang(en) #shar-sec03 .ct2{
+		font-size:13px;
+	}
+
+}
+@media only screen and (max-width: 767px){
+	html:lang(en) #social-contribution-sec .av_one_fourth{
+		padding:60px 0 0;
+	}
+	html:lang(en) #social-contribution-sec .av_one_fourth p.desc{
+		text-align:center;
+		margin-top:10px;
+		max-width:80%;
+	}
+	html:lang(en) #social-contribution-sec .av_one_fourth .tbox{
+		height:auto;
+	}
+}
+@media only screen and (max-width: 500px){
+
+	html:lang(en) .adr_box_2 .tbox .info_tag{
+		width:100%;
+	}
+}

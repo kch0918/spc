@@ -1,0 +1,52 @@
+ /* 본페이지 report.css 수정*/
+
+.magazine_search {
+    position: relative;
+	margin-right: 34px;
+}
+
+.maga_check_tit {
+	font-weight: 600;
+}
+
+.check_lang {
+    position: relative;
+	margin-left: 58px;
+}
+
+.check_lang:before {
+ 	content: '';
+    position: absolute;
+    left: -28px;
+    top: 3px;
+    width: 1px;
+    height: 14px;
+    opacity: 0.42;
+    background: #707070;
+}
+
+.table_tit.magazine_tb th:nth-child(1),
+.tablecont.magazine_tb td:nth-child(1) {
+    width: 8%;
+    color: #8d8d8d;
+} 
+
+.table_tit.magazine_tb th:nth-child(2),
+.tablecont.magazine_tb td:nth-child(2) {
+    width: 18%;
+}
+
+.table_tit.magazine_tb th:nth-child(3),
+.tablecont.magazine_tb td:nth-child(3) {
+    width: 41%;
+}
+
+.table_tit.magazine_tb th:nth-child(4),
+.tablecont.magazine_tb td:nth-child(4) {
+    width: 12%;
+}
+
+.table_tit.magazine_tb th:nth-child(5),
+.tablecont.magazine_tb td:nth-child(5) {
+    width: 6%;
+}

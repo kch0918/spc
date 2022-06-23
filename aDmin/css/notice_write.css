@@ -1,0 +1,69 @@
+.notice .search {
+    margin-bottom: 40px;
+}
+
+.write_li_add {
+    padding-bottom: 13px;
+    border-bottom: solid 1px #efefef;
+    font-size: 0;
+}
+
+.notice .write_li_tit {
+    padding-top: 18px;
+}
+
+.write_li_add .notice_tit {
+    line-height: 38px;
+}
+
+.write_li_add .select-hidden {
+    display: none;
+    visibility: hidden;
+    padding-right: 10px;
+}
+
+.write_li_add .select {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    width: 185px;
+    height: 36px;
+    border-radius: 20px;
+    border: solid 1px #dfe5ee;
+    background: url(../img/anti_tri.png) no-repeat 161px;
+    background-size: auto;
+    vertical-align: middle;
+}
+
+.write_li_add .select-styled {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 8px 0 0 21px;
+    width: 185px;
+    height: 36px;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #010101;
+}
+
+.write_li_add .select-options {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    z-index: 99;
+    margin: 8px 0 0 0;
+    padding: 0 0 0 21px;
+    list-style: none;
+    background: #fff;
+    border-radius: 0 0 20px 20px;
+}
+
+.write_li_add .select-options li {
+    display: block;
+    font-size: 14px;
+    color: #010101;
+    margin-bottom: 5px;
+}

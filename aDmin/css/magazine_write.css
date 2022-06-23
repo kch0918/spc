@@ -1,0 +1,22 @@
+.megazine .search {
+    margin-bottom: 40px;
+}
+
+.write_li_add .check_wrap {
+    position: relative;
+    float: right;
+    margin-top: 8px;
+}
+
+.write_li_add .maga_check_tit:before {
+    display: none;
+}
+
+.write_li_add {
+    padding-bottom: 13px;
+    border-bottom: solid 1px #efefef;
+}
+
+.megazine .write_li_tit {
+    padding-top: 18px;
+}

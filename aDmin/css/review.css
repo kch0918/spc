@@ -1,0 +1,78 @@
+ /* 본페이지 report.css 수정*/
+
+.review_search {
+    position: relative;
+	margin-right: 34px;
+}
+
+.review_check_tit {
+	font-weight: 600;
+}
+
+.review_search:before {
+ 	content: '';
+    position: absolute;
+    right: -37px;
+    top: 10px;
+    width: 1px;
+    height: 14px;
+    opacity: 0.42;
+    background: #707070;
+}
+
+.table_tit.review_tb th:nth-child(1),
+.tablecont.review_tb td:nth-child(1) {
+    width: 10%;
+    color: #8d8d8d;
+}
+
+.table_tit.review_tb th:nth-child(2),
+.tablecont.review_tb td:nth-child(2) {
+    width: 67%;
+}
+
+.table_tit.review_tb th:nth-child(3),
+.tablecont.review_tb td:nth-child(3) {
+    width: 12%;
+}
+
+.table_tit.review_tb th:nth-child(4),
+.tablecont.review_tb td:nth-child(4) {
+    width: 8%;
+}
+
+.review .write_cont_tit {
+    vertical-align: middle;
+}
+
+.menu_check {
+    display: inline-block;
+    vertical-align: top;
+    width: 18.5%;
+}
+
+.menu_check span {
+    display: block;
+    padding-left: 25px;
+    min-width: 170px;
+    line-height: 17px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+}
+
+.menu_check label {
+    margin-bottom: 10px;
+}
+
+.menu_check label:not(:nth-of-type(1)) {
+    margin-left: 30px;
+}
+
+.pass_desc {
+    font-size: 12px;
+    font-weight: 500;
+    color: #000000;
+    margin: 19px 0 5px;
+    display: block;
+}
